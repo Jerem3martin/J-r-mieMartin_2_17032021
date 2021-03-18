@@ -1,39 +1,50 @@
 #header
 {
-
+  display: flex;
 }
 
 #nav
 {
-
+   display: flex;
 }
 
 #section
 {
-
+   display: flex;
+   flex-direction: column;
 }
 
 #vacance
 {
-
+   display: flex;
+   flex-direction: column;
 }
 
 #article
 {
-
+   display: flex;
+   flex-direction: column;
 }
 
 #populaire
 {
-
+   display: flex;
+   flex-direction: column;
 }
 
 #activite
 {
-
+   display: flex;
+   flex-direction: column;
 }
 
 #footer
 {
-    
+   display: flex;
+}
+
+#propos
+{
+    display: flex;
+    flex-direction: column;
 }
