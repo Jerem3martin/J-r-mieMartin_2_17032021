@@ -1,11 +1,13 @@
 #header /*logo*/
 {
   display: flex;
+  width: 50%;
 }
 
 #nav /*liste de hebergements/activites/s'inscrire*/
 {
    display: flex;
+   float: right;
 }
 
 .hebergements:hover
