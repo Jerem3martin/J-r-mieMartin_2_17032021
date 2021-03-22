@@ -24,19 +24,24 @@
 #article
 {
    display: flex;
-   flex-direction: column;
+   
+}
+
+article_2
+{
+   display: flex;
 }
 
 #populaire
 {
    display: flex;
-   flex-direction: column;
+   
 }
 
 #activite
 {
    display: flex;
-   flex-direction: column;
+   ;
 }
 
 #footer
