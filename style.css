@@ -1,15 +1,9 @@
-#header
+#header /*logo*/
 {
   display: flex;
-  float: left;
 }
 
-body
-{
-   background-color:;
-}
-
-#nav
+#nav /*liste de hebergements/activites/s'inscrire*/
 {
    display: flex;
    justify-content: space-around;
@@ -31,7 +25,7 @@ body
    border-top: 2px #DEEBFF solid ;
 }
 
-#section
+#section /* vacance/liste/article/populaire/activite */
 {
    display: flex;
    flex-direction: column;
@@ -41,6 +35,12 @@ body
 {
    display: flex;
    flex-direction: column;
+}
+
+#liste
+{
+   display: flex;
+   justify-content: space-between;
 }
 
 #article
@@ -68,7 +68,7 @@ body
    justify-content: space-around;
 }
 
-#footer
+#footer /* propos/hebergements/assistance */
 {
    background-color: #F2F2F2;
    display: flex;
@@ -93,8 +93,3 @@ body
    flex-direction: column;
 }
 
-#liste
-{
-   display: flex;
-   justify-content: space-between;
-}
