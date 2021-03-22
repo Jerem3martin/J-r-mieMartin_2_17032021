@@ -1,6 +1,6 @@
 #header /*logo + nav*/
 {
-   width
+   
 }
 
 #nav /*liste de hebergements/activites/s'inscrire*/
@@ -52,10 +52,10 @@
    align-items: center;
    flex-wrap: wrap;
    margin: auto;
-   padding: auto;
+   padding: 5px;
    border: 2px solid  #F2F2F2 ;
    border-radius: 20px ;
-   width: 600px;
+   width: 800px;
    margin: 10px
    
 }
