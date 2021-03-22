@@ -53,6 +53,9 @@
    flex-wrap: wrap;
    margin: auto;
    padding: auto;
+   border: 2px solid  #F2F2F2 ;
+   border-radius: 20px ;
+   width: 600px;
    
 }
 
