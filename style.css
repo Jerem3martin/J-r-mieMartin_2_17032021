@@ -9,7 +9,7 @@
    float: right;
 }
 
-.hebergements:hover
+.hebergements_1:hover
 {
    border-top: 2px #DEEBFF solid ;
 }
@@ -30,20 +30,20 @@
    flex-direction: column;
 }
 
-#vacance
+#vacance /* texte entre logo et herbergements */
 {
    display: flex;
    flex-direction: column;
 }
 
-#liste
+#liste /* filtres economique + familial + romantique + animaux */
 {
    display: flex;
    justify-content: space-between;
    width: 600px;
 }
 
-#article
+#article /* hebergements a marseille */
 {
    background-color:  #F2F2F2;
    display: flex;
@@ -56,7 +56,7 @@
 }
 
 
-#populaire
+#populaire /* les plus populaire */
 {
    background-color: #F2F2F2;
    display: flex;
@@ -64,7 +64,7 @@
    
 }
 
-#activite
+#activite /* image des activite */
 {
    display: flex;
    justify-content: space-around;
