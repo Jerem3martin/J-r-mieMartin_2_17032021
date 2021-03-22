@@ -53,3 +53,15 @@
     display: flex;
     flex-direction: column;
 }
+
+#hebergements
+{
+   display: flex;
+   flex-direction: column;
+}
+
+#assistance
+{
+   display: flex;
+   flex-direction: column;
+}
