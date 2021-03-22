@@ -24,12 +24,8 @@
 #article
 {
    display: flex;
+   justify-content:space-around ;
    
-}
-
-article_2
-{
-   display: flex;
 }
 
 #populaire
