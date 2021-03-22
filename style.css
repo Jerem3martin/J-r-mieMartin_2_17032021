@@ -6,8 +6,6 @@
 #nav /*liste de hebergements/activites/s'inscrire*/
 {
    display: flex;
-   justify-content: space-around;
-   flex-direction: row;
 }
 
 .hebergements:hover
