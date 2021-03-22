@@ -12,6 +12,23 @@ body
 #nav
 {
    display: flex;
+   justify-content: space-around;
+   flex-direction: row;
+}
+
+.hebergements:hover
+{
+   border-top: 2px #DEEBFF solid ;
+}
+
+.activites:hover
+{
+   border-top: 2px #DEEBFF solid ;
+}
+
+.inscrire:hover
+{
+   border-top: 2px #DEEBFF solid ;
 }
 
 #section
@@ -32,6 +49,7 @@ body
    display: flex;
    justify-content:space-around ;
    align-items: center;
+   flex-wrap: wrap;
    
 }
 
