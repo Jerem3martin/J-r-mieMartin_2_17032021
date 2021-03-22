@@ -1,6 +1,7 @@
 #header
 {
   display: flex;
+  float: left;
 }
 
 #nav
