@@ -82,42 +82,42 @@
    justify-content:space-around ;
    align-items: center;
    flex-wrap: wrap;
-   margin: auto;
    padding: 5px;
    border: 2px solid  #F2F2F2 ;
    border-radius: 20px ;
    width: 800px;
-   margin: 10px
+   margin: 10px ;
+   height: 700px;
 }
 
 #image_1
 {
-   width: 10%;
+   width: 15%;
 }
 
 #image_2
 {
-   width: 10%;
+   width: 15%;
 }
 
 #image_3
 {
-   width: 10%;
+   width: 15%;
 }
 
 #image_4
 {
-   width: 10%;
+   width: 15%;
 }
 
 #image_5
 {
-   width: 10%;
+   width: 15%;
 }
 
 #image_6
 {
-   width: 10%;
+   width: 15%;
 }
 
 
