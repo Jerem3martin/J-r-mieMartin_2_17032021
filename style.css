@@ -34,7 +34,22 @@
 
 #economique
 {
-   color: red;
+   border: 1px solid black;
+}
+
+#familial
+{
+   border: 1px solid black;
+}
+
+#romantique
+{
+   border: 1px solid black;
+}
+
+#animaux
+{
+   border: 1px solid black;
 }
 
 #vacance /* texte entre logo et herbergements */
