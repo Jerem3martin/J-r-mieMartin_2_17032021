@@ -140,3 +140,8 @@
    background-color: #0065FC;
    color: white;
 }
+
+ul
+{
+   list-style-type: none;
+}
