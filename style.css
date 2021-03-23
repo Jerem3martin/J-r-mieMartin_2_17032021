@@ -13,16 +13,19 @@
 .hebergements_1:hover
 {
    border-top: 2px #DEEBFF solid ;
+   color: #0065FC;
 }
 
 .activites:hover
 {
    border-top: 2px #DEEBFF solid ;
+   color: #0065FC;
 }
 
 .inscrire:hover
 {
    border-top: 2px #DEEBFF solid ;
+   color: #0065FC;
 }
 
 #section /* vacance/liste/article/populaire/activite */
@@ -101,4 +104,11 @@
 #search
 {
    border: ;
+}
+
+#submit
+{
+   border-radius: 7px;
+   background-color: #0065FC;
+   color: white;
 }
