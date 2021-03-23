@@ -90,7 +90,7 @@
    height: 700px;
 }
 
-#image_1
+#image_1 /* modification taille image/arrondie bordure/background-color */
 {
    width: 150px;;
    border-radius: 4px;
@@ -120,19 +120,22 @@ div
 
 #image_4
 {
-   width: 150px;;
+   width: 150px;
+   height: 100px;
    border-radius: 4px;
 }
 
 #image_5
 {
-   width: 150px;;
+   width: 150px;
+   height: 100px;
    border-radius: 4px;
 }
 
 #image_6
 {
-   width: 150px;;
+   width: 150px;
+   height: 100px;
    border-radius: 4px;
 }
 
