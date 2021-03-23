@@ -1,6 +1,11 @@
 #header /*logo + nav*/
 {
-   
+  
+}
+
+#logo
+{
+   width: 7%;
 }
 
 #nav /*liste de hebergements/activites/s'inscrire*/
