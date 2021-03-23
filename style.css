@@ -35,21 +35,29 @@
 #economique
 {
    border: 1px solid black;
+   border-radius: 12px;
+   padding: 5px;
 }
 
 #familial
 {
    border: 1px solid black;
+   border-radius: 12px;
+   padding: 5px;
 }
 
 #romantique
 {
    border: 1px solid black;
+   border-radius: 12px;
+   padding: 5px;
 }
 
 #animaux
 {
    border: 1px solid black;
+   border-radius: 12px;
+   padding: 5px;
 }
 
 #vacance /* texte entre logo et herbergements */
