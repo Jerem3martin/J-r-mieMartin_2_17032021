@@ -88,6 +88,8 @@
    width: 800px;
    margin: 10px ;
    height: 700px;
+   float: left;
+   margin-right: 150px;
 }
 
 #image_1 /* modification taille image/arrondie bordure image*/
@@ -147,7 +149,8 @@
    flex-direction: column;
    justify-content: space-around;
    border: 2px solid  #F2F2F2 ;
-   width: 800px;
+   width: 300px;
+   border-radius: 10px;
    
 }
 
@@ -158,6 +161,7 @@
    border-radius: 10px;
    width: 150px;
    border-width: 4px;
+   margin: 10px;
 }
 
 #popu1
@@ -184,37 +188,47 @@
 
 #activ
 {
-
+   border: 2px solid white;
+   border-radius: 10px;
+   width: 150px;
+   border-width: 4px;
+   box-shadow: 2px 2px 3px #F2F2F2;
 }
 
 #activ1
 {
-
+   width: 150px;
+   height: 200px;
 }
 
 #activ2
 {
-
+   width: 150px;
+   height: 100px;
 }
 
 #activ3
 {
-
+   width: 150px;
+   height: 100px;
 }
 
 #activ4
 {
-
+   width: 150px;
+   height: 200px;
 }
 
 #activ5
 {
-
+   width: 150px;
+   height: 100px;
 }
 
 #activ6
 {
-   
+   width: 150px;
+   height: 100px;
 }
 
 #footer /* propos/hebergements/assistance */
