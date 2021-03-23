@@ -91,6 +91,13 @@
    width: 600px;
 }
 
+#titre_heber
+{
+   position: absolute;
+   top: 320px;
+   left: 60px;
+}
+
 #article /* hebergements a marseille */
 {
    background-color:  #F2F2F2;
