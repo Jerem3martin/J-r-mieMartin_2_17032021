@@ -1,6 +1,6 @@
 #header /*logo + nav*/
 {
-  
+  flex-direction: row;
 }
 
 #logo
@@ -10,9 +10,9 @@
 
 #nav /*liste de hebergements/activites/s'inscrire*/
 {
-   display: flex;
+   display:flex;
    float: right;
-   flex-direction: row;
+   flex-direction:row;
 }
 
 .hebergements_1:hover
@@ -88,7 +88,36 @@
    border-radius: 20px ;
    width: 800px;
    margin: 10px
-   
+}
+
+#image_1
+{
+   width: 10%;
+}
+
+#image_2
+{
+   width: 10%;
+}
+
+#image_3
+{
+   width: 10%;
+}
+
+#image_4
+{
+   width: 10%;
+}
+
+#image_5
+{
+   width: 10%;
+}
+
+#image_6
+{
+   width: 10%;
 }
 
 
