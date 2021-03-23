@@ -27,15 +27,10 @@
 
 #section /* vacance/liste/article/populaire/activite */
 {
-   display: flex;
-   flex-direction: column;
 }
 
 #vacance /* texte entre logo et herbergements */
-{
-   display: flex;
-   flex-direction: column;
-}
+
 
 #liste /* filtres economique + familial + romantique + animaux */
 {
@@ -103,3 +98,7 @@
    flex-direction: column;
 }
 
+#search
+{
+   width: 25px;
+}
