@@ -90,13 +90,13 @@
    height: 700px;
 }
 
-#image_1 /* modification taille image/arrondie bordure/background-color */
+#image_1 /* modification taille image/arrondie bordure image*/
 {
    width: 150px;;
    border-radius: 4px;
 }
 
-div
+#image_heberg /* pour les image hebergements */
 {
    background-color: white;
    border: 2px solid white;
@@ -149,6 +149,31 @@ div
    border: 2px solid  #F2F2F2 ;
    width: 800px;
    
+}
+
+#image_popu
+{
+   background-color: white;
+   border: 2px solid white;
+   border-radius: 10px;
+   width: 150px;
+   border-width: 4px;
+}
+
+#popu1
+{
+   width: 150px;
+}
+
+#popu2
+{
+   width: 150px;
+}
+
+#popu3
+{
+   width: 150px;
+   height: 100px;
 }
 
 #activite /* image des activite */
