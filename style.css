@@ -18,7 +18,7 @@
 #liste_1
 {
    display: flex;
-   justify-content: space-between;
+   justify-content: row;
    
 }
 
@@ -191,10 +191,10 @@
    background-color: white;
    border: 2px solid white;
    border-radius: 10px;
-   width: auto;
+   width: 300px;
    border-width: 4px;
    margin: 30px 20px 20px 20px ;
-   height: auto;
+   height: 177px;
 }
 
 #popu1
@@ -219,14 +219,14 @@
 #activite /* image des activite */
 {
    display:flex;
-   justify-content: flex-start;
+   flex-direction: row;
+   justify-content: space-between;
 }
 
 #activ
 {
-   display: flex;
+   display:
    flex-direction: row;
-   justify-content: flex-start;
    border: 2px solid white;
    border-radius: 10px;
    width: ;
@@ -237,7 +237,6 @@
 
 #activ1
 {
-   display: flex;
    width: 250px;
    height: 250px;
 }
