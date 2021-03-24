@@ -18,7 +18,8 @@
 #liste_1
 {
    display: flex;
-   flex-direction: row;
+   justify-content: space-between;
+   
 }
 
 .hebergements_1:hover
