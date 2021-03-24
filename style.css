@@ -306,3 +306,10 @@ ul
 {
    list-style-type: none;
 }
+
+#parents
+{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+}
