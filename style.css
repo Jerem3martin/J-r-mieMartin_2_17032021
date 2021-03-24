@@ -100,9 +100,7 @@
 
 #titre_heber
 {
-   position: absolute;
-   top: 320px;
-   left: 50px;
+  
 }
 
 #article /* hebergements a marseille */
@@ -314,9 +312,10 @@ ul
    list-style-type: none;
 }
 
-#parents
+#parents /* bloc herbergements + populaire */
 {
    display: flex;
    flex-direction: row;
    flex-wrap: nowrap;
+   width: 800px;
 }
