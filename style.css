@@ -331,13 +331,18 @@ ul
 .pack1
 {
    display: flex;
-   align-items: flex-start;
    align-items: center;
+   margin-top: 5px;
 }
 
 .pack2
 {
    display: flex;
-   align-items: flex-start;
    align-items: center;
+}
+
+.afficher
+{
+   display: flex;
+   justify-content: flex-end;
 }
