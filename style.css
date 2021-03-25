@@ -357,20 +357,31 @@ ul
 #bill
 {
    color: #0065FC;
-   background-color: #DEEBFF;
+   border: 8px solid #DEEBFF;
+   background-color:#DEEBFF ;
+   border-radius: 55px;
 }
 
 #boy
 {
    color: #0065FC;
+   border: 8px solid #DEEBFF;
+   background-color:#DEEBFF ;
+   border-radius: 55px;
 }
 
 #coeur
 {
    color: #0065FC;
+   border: 8px solid #DEEBFF;
+   background-color:#DEEBFF ;
+   border-radius: 55px;
 }
 
 #dog
 {
    color: #0065FC;
+   border: 8px solid #DEEBFF;
+   background-color:#DEEBFF ;
+   border-radius: 55px;
 }
