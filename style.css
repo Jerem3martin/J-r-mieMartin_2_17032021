@@ -1,5 +1,6 @@
 #header /*logo + nav*/
 {
+   display: flex;
   flex-direction: row;
 }
 
@@ -11,8 +12,9 @@
 #nav /*liste de hebergements/activites/s'inscrire*/
 {
    display:flex;
-   float: right;
-   flex-direction:row;
+   justify-content: flex-end;
+   margin-right: 25px;
+   margin-left: 900px;
 }
 
 #liste_1
@@ -198,12 +200,14 @@
 {
    width: 150px;
    float: left;
+   border-radius: 4px ;
 }
 
 #popu2
 {
    width: 150px;
    float: left;
+   border-radius: 4px;
 }
 
 #popu3
@@ -211,19 +215,18 @@
    width: 150px;
    height: 100px;
    float: left;
+   border-radius: 4px;
 }
 
 #activite /* image des activite */
 {
    display:flex;
    flex-direction: row;
-   justify-content: space-between;
+   justify-content: space-around;
 }
 
 #activ
 {
-   display:flex
-   flex-direction: row;
    border: 2px solid white;
    border-radius: 10px;
    border-width: 4px;
@@ -233,43 +236,49 @@
 #activ1
 {
    width: 250px;
-   height: 250px;
+   height: 300px;
+   border-radius: 4px;
 }
 
 #activ2
 {
-   width: 150px;
-   height: 100px;
+   width: 200px;
+   height: 150px;
+   border-radius: 4px;
 }
 
 #activ3
 {
-   width: 150px;
+   width: 200px;
    height: 100px;
+   border-radius: 4px;
 }
 
 #image_colone_1
 {
    display: flex;
-   flex-direction: column;
+   flex-direction: column ;
 }
 
 #activ4
 {
-   width: 150px;
-   height: 200px;
+   width: 250px;
+   height: 300px;
+   border-radius: 4px;
 }
 
 #activ5
 {
-   width: 150px;
-   height: 100px;
+   width: 200px;
+   height: 150px;
+   border-radius: 4px;
 }
 
 #activ6
 {
-   width: 150px;
+   width: 200px;
    height: 100px;
+   border-radius: 4px;
 }
 
 #image_colone_2
