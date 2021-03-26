@@ -403,8 +403,9 @@ ul
    padding: 10px;
 }
 
-.fas far-star
+#etoile_1
 {
    display: flex;
    flex-direction: row;
+   color: #0065FC;
 }
