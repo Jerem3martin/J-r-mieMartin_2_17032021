@@ -435,8 +435,11 @@ ul
 .fas
 {
    display: flex;
+}
+
+#marker
+{
    border: 1px solid #F2F2F2;
    border-radius: 10px 0px 0px 10px;
    padding: 5px;
-   background-color:#F2F2F2 ;
 }
