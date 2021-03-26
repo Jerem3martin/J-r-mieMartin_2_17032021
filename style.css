@@ -43,8 +43,10 @@
    color: #0065FC;
 }
 
-#section /* vacance/liste/article/populaire/activite */
+#filtres /* vacance/liste/article/populaire/activite */
 {
+   display: flex;
+   align-items:baseline ;
 }
 
 #economique
@@ -362,31 +364,35 @@ ul
 #bill
 {
    color: #0065FC;
-   border: 8px solid #DEEBFF;
+   border: 1px solid silver;
    background-color:#DEEBFF ;
    border-radius: 55px;
+   padding: 10px;
 }
 
 #boy
 {
    color: #0065FC;
-   border: 8px solid #DEEBFF;
+   border: 1px solid silver;
    background-color:#DEEBFF ;
    border-radius: 55px;
+   padding: 10px;
 }
 
 #coeur
 {
    color: #0065FC;
-   border: 8px solid #DEEBFF;
+   border: 1px solid silver;
    background-color:#DEEBFF ;
    border-radius: 55px;
+   padding: 10px;
 }
 
 #dog
 {
    color: #0065FC;
-   border: 8px solid #DEEBFF;
+   border: 1px solid silver;
    background-color:#DEEBFF ;
    border-radius: 55px;
+   padding: 10px;
 }
