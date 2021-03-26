@@ -402,3 +402,9 @@ ul
    border-radius: 55px;
    padding: 10px;
 }
+
+.fas far-star
+{
+   display: flex;
+   flex-direction: row;
+}
