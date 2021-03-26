@@ -20,7 +20,8 @@
 #liste_1
 {
    display: flex;
-   justify-content: row;
+   width: 400px;
+   justify-content: space-around;
    
 }
 
@@ -48,9 +49,10 @@
 
 #economique
 {
-   border: 1px solid black;
-   border-radius: 12px;
+   border: 1px solid silver;
+   border-radius: 30px;
    padding: 5px;
+   padding-left: 0.1px;
 }
 #economique:hover
 {
@@ -59,9 +61,10 @@
 
 #familial
 {
-   border: 1px solid black;
-   border-radius: 12px;
+   border: 1px solid silver;
+   border-radius: 30px;
    padding: 5px;
+   padding-left: 0.1px;
 }
 #familial:hover
 {
@@ -70,9 +73,10 @@
 
 #romantique
 {
-   border: 1px solid black;
-   border-radius: 12px;
+   border: 1px solid silver;
+   border-radius: 30px;
    padding: 5px;
+   padding-left: 0.1px;
 }
 #romantique:hover
 {
@@ -81,9 +85,10 @@
 
 #animaux
 {
-   border: 1px solid black;
-   border-radius: 12px;
+   border: 1px solid silver;
+   border-radius: 30px;
    padding: 5px;
+   padding-left: 0.1px;
 }
 #animaux:hover
 {
