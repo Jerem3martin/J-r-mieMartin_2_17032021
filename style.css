@@ -235,13 +235,13 @@
 }
 
 
-#activ1
+#activ1 /*image seulement*/
 {
    width: 250px;
    height: 300px;
    border-radius: 10px;
 }
-#activite1
+#activite1 /*image + texte*/
 {
    border: 2px solid black;
    border-radius: 10px;
@@ -251,7 +251,14 @@
 {
    width: 200px;
    height: 150px;
-   border-radius: 4px;
+   border-radius: 10px;
+}
+#activite2 /*image + texte*/
+{
+   border: 2px solid black;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   
 }
 
 #activ3
@@ -259,6 +266,12 @@
    width: 200px;
    height: 100px;
    border-radius: 4px;
+}
+#activite3 /*image + texte*/
+{
+   border: 2px solid black;
+   border-radius: 10px;
+   
 }
 
 #image_colone_1
@@ -273,6 +286,12 @@
    height: 300px;
    border-radius: 4px;
 }
+#activite4 /*image + texte*/
+{
+   border: 2px solid black;
+   border-radius: 10px;
+   
+}
 
 #activ5
 {
@@ -280,12 +299,24 @@
    height: 150px;
    border-radius: 4px;
 }
+#activite5 /*image + texte*/
+{
+   border: 2px solid black;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
 
 #activ6
 {
    width: 200px;
    height: 100px;
    border-radius: 4px;
+}
+#activite6 /*image + texte*/
+{
+   border: 2px solid black;
+   border-radius: 10px;
+   
 }
 
 #image_colone_2
@@ -299,6 +330,7 @@
    background-color: #F2F2F2;
    display: flex;
    justify-content: space-between;
+   margin-top: 50px;
 }
 
 #propos
