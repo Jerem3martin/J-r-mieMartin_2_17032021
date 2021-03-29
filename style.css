@@ -234,18 +234,17 @@
    justify-content: space-around;
 }
 
-#activ
-{
-   border: 2px solid white;
-   border-radius: 10px;
-   box-shadow: 2px 2px 3px #F2F2F2;
-}
 
 #activ1
 {
    width: 250px;
    height: 300px;
-   border-radius: 4px;
+   border-radius: 10px;
+}
+#activite1
+{
+   border: 2px solid black;
+   border-radius: 10px;
 }
 
 #activ2
@@ -445,6 +444,12 @@ ul
 }
 
 
+
+
+
+
+
+
 @media
 
 all and (orientation: portrait)
@@ -469,6 +474,13 @@ all and (orientation: portrait)
 }
 
 .parents
+{
+   width: auto;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+#article
 {
    width: auto;
    flex-direction: column;
