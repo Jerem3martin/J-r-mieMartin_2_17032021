@@ -443,3 +443,65 @@ ul
    border-radius: 10px 0px 0px 10px;
    padding: 5px;
 }
+
+
+@media
+
+all and (orientation: portrait)
+
+{
+
+#logo
+{
+   width: 25%;
+}
+#header
+{
+   flex-wrap: wrap;
+   width: auto;
+}
+
+#nav
+{
+   width: auto;
+   flex-wrap: wrap;
+   justify-content: left;
+}
+
+.parents
+{
+   width: auto;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+#hebergements
+{
+   width: auto;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+#populaire
+{
+   width: auto;
+   flex-wrap: wrap;
+   flex-direction: column;
+}
+
+#activite
+{
+   width: auto;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+#footer
+{
+   width: auto;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+
+
+}
