@@ -192,7 +192,9 @@
 
 #titre_popu
 {
-   
+   display: flex;
+   justify-content: space-between;
+   margin-right: 20px;
 }
 
 #image_popu
