@@ -269,27 +269,27 @@ h4, div
 
 #activ1 /*image seulement*/
 {
-   width: 250px;
-   height: 300px;
+   width: 350px;
+   height: 450px;
    border-radius: 9px;
 }
 #activite1 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
 }
 
 #activ2
 {
-   width: 200px;
-   height: 150px;
+   width: 250px;
+   height: 200px;
    border-radius: 9px;
 }
 #activite2 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    margin-bottom: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
    
@@ -297,14 +297,14 @@ h4, div
 
 #activ3
 {
-   width: 200px;
-   height: 100px;
+   width: 250px;
+   height: 150px;
    border-radius: 9px;
 }
 #activite3 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
    
 }
@@ -317,42 +317,42 @@ h4, div
 
 #activ4
 {
-   width: 250px;
-   height: 300px;
+   width: 350px;
+   height: 450px;
    border-radius: 9px;
 }
 #activite4 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
    
 }
 
 #activ5
 {
-   width: 200px;
-   height: 150px;
+   width: 250px;
+   height: 200px;
    border-radius: 9px;
 }
 #activite5 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    margin-bottom: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
 }
 
 #activ6
 {
-   width: 200px;
-   height: 100px;
+   width: 250px;
+   height: 150px;
    border-radius: 9px;
 }
 #activite6 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
-   border-radius: 10px;
+   border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
    
 }
