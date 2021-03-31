@@ -1,3 +1,13 @@
+@font-face
+{
+   font-family: 'raleway' ;
+   src: url(Raleway-VariableFont_wght.ttf);
+}
+
+p, h1, h2, h3, h4, li, ul, div
+{
+   font-family: 'raleway';
+}
 #header /*logo + nav*/
 {
    display: flex;
