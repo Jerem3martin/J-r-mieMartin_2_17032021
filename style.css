@@ -8,6 +8,11 @@ p, h1, h2, h3, h4, li, ul, div
 {
    font-family: 'raleway';
 }
+
+h4, div
+{
+   font-weight: bold;
+}
 #header /*logo + nav*/
 {
    display: flex;
@@ -38,7 +43,7 @@ p, h1, h2, h3, h4, li, ul, div
 .hebergements_1:hover
 {
    border-top: 2px #DEEBFF solid ;
-   color: #0065FC;
+   color: blue;
 }
 
 .activites:hover
@@ -126,12 +131,14 @@ p, h1, h2, h3, h4, li, ul, div
 {
    display: flex;
    justify-content: space-between;
-   width: 600px;
+   width: 700px;
+   font-weight: bold;
 }
 
 #titre_heber
 {
   display: flex;
+  font-weight: bold;
 }
 
 #article /* hebergements a marseille */
@@ -209,7 +216,7 @@ p, h1, h2, h3, h4, li, ul, div
    justify-content: space-around;
    border: 2px solid  #F2F2F2 ;
    border-radius: 10px;
-   
+   font-weight: bold;
 }
 
 #titre_popu
@@ -256,6 +263,7 @@ p, h1, h2, h3, h4, li, ul, div
    display:flex;
    flex-direction: row;
    justify-content: space-around;
+   font-weight: bold;
 }
 
 
