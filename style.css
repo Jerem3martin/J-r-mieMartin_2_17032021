@@ -151,6 +151,7 @@ h4, div
 {
    display: flex;
    justify-content: space-between;
+   height: 600px;
 }
 
 #article /* hebergements a marseille */
@@ -446,6 +447,8 @@ ul
 {
    display: flex;
    justify-content: flex-end;
+   margin-top: 20px;
+   margin-left: 20px;
 }
 
 #bill
