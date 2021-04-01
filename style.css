@@ -271,7 +271,7 @@ h4, div
 {
    width: 350px;
    height: 450px;
-   border-radius: 9px;
+   border-radius: 10px 10px 0px 0px;
 }
 #activite1 /*image + texte*/
 {
@@ -284,7 +284,7 @@ h4, div
 {
    width: 250px;
    height: 200px;
-   border-radius: 9px;
+   border-radius:  10px 10px 0px 0px;;
 }
 #activite2 /*image + texte*/
 {
@@ -299,7 +299,7 @@ h4, div
 {
    width: 250px;
    height: 150px;
-   border-radius: 9px;
+   border-radius:  10px 10px 0px 0px;;
 }
 #activite3 /*image + texte*/
 {
@@ -313,13 +313,14 @@ h4, div
 {
    display: flex;
    flex-direction: column ;
+   justify-content: space-between;
 }
 
 #activ4
 {
    width: 350px;
    height: 450px;
-   border-radius: 9px;
+   border-radius:  10px 10px 0px 0px;;
 }
 #activite4 /*image + texte*/
 {
@@ -333,7 +334,7 @@ h4, div
 {
    width: 250px;
    height: 200px;
-   border-radius: 9px;
+   border-radius:  10px 10px 0px 0px;;
 }
 #activite5 /*image + texte*/
 {
@@ -347,7 +348,7 @@ h4, div
 {
    width: 250px;
    height: 150px;
-   border-radius: 9px;
+   border-radius:  10px 10px 0px 0px;;
 }
 #activite6 /*image + texte*/
 {
@@ -361,6 +362,7 @@ h4, div
 {
    display: flex;
    flex-direction: column;
+   justify-content: space-between;
 }
 
 #footer /* propos/hebergements/assistance */
