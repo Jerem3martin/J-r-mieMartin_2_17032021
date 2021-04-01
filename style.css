@@ -162,7 +162,7 @@ h4, div
    padding: 5px;
    border: 2px solid  #F2F2F2 ;
    border-radius: 20px ;
-   width: 800px;
+   width: 900px;
    margin-left: 30px;
 }
 
@@ -202,7 +202,7 @@ h4, div
    display: flex;
    align-items: center;
    margin-top: 5px;
-   width: 800px;
+   width: 900px;
    justify-content: space-around;
 }
 
@@ -231,7 +231,7 @@ h4, div
 {
    display: flex;
    align-items: center;
-   width: 800px;
+   width: 900px;
    justify-content: space-around;
 }
 
