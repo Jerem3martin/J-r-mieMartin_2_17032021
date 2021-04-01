@@ -141,6 +141,12 @@ h4, div
   font-weight: bold;
 }
 
+.parents/* bloc herbergements + populaire */
+{
+   display: flex;
+   justify-content: space-between;
+}
+
 #article /* hebergements a marseille */
 {
    background-color:  #F2F2F2;
@@ -151,8 +157,7 @@ h4, div
    border: 2px solid  #F2F2F2 ;
    border-radius: 20px ;
    width: 800px;
-   margin-left: 25px;
-   margin-right: 50px;
+   margin-left: 30px;
 }
 
 #image_1 /* modification taille image/arrondie bordure image*/
@@ -186,6 +191,15 @@ h4, div
    border-radius: 8px;
 }
 
+.pack1
+{
+   display: flex;
+   align-items: center;
+   margin-top: 5px;
+   width: 800px;
+   justify-content: space-around;
+}
+
 #image_4
 {
    width: 200px;
@@ -207,6 +221,13 @@ h4, div
    border-radius: 8px;
 }
 
+.pack2
+{
+   display: flex;
+   align-items: center;
+   width: 800px;
+   justify-content: space-around;
+}
 
 #populaire /* les plus populaire */
 {
@@ -217,6 +238,7 @@ h4, div
    border: 2px solid  #F2F2F2 ;
    border-radius: 10px;
    font-weight: bold;
+   margin-right: 40px;
 }
 
 #titre_popu
@@ -231,7 +253,7 @@ h4, div
    background-color: white;
    border: 2px solid white;
    border-radius: 10px;
-   width: 300px;
+   width: 320px;
    border-width: 4px;
    margin: 30px 20px 20px 20px ;
 }
@@ -240,14 +262,14 @@ h4, div
 {
    width: 150px;
    float: left;
-   border-radius: 4px ;
+   border-radius: 10px 0px 0px 10px ;
 }
 
 #popu2
 {
    width: 150px;
    float: left;
-   border-radius: 4px;
+   border-radius: 10px 0px 0px 10px;
 }
 
 #popu3
@@ -255,7 +277,7 @@ h4, div
    width: 150px;
    height: 100px;
    float: left;
-   border-radius: 4px;
+   border-radius: 10px 0px 0px 10px;
 }
 
 #activite /* image des activite */
@@ -412,27 +434,7 @@ ul
    list-style-type: none;
 }
 
-.parents/* bloc herbergements + populaire */
-{
-   display: flex;
-}
 
-.pack1
-{
-   display: flex;
-   align-items: center;
-   margin-top: 5px;
-   width: 800px;
-   justify-content: space-around;
-}
-
-.pack2
-{
-   display: flex;
-   align-items: center;
-   width: 800px;
-   justify-content: space-around;
-}
 
 .afficher
 {
