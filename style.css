@@ -52,6 +52,12 @@ h4, div
    color: #0065FC;
 }
 
+.inscrire
+{
+   color: #0065FC;
+   font-weight: bold;
+}
+
 .inscrire:hover
 {
    border-top: 2px #DEEBFF solid ;
