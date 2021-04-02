@@ -17,6 +17,7 @@ h4, div
 {
    display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 #logo
@@ -28,8 +29,7 @@ h4, div
 {
    display:flex;
    justify-content: flex-end;
-   margin-right: 25px;
-   margin-left: 900px;
+   margin-right: 50px;
 }
 
 #liste_1
@@ -151,7 +151,7 @@ h4, div
 {
    display: flex;
    justify-content: space-between;
-   height: 600px;
+   height: 720px;
 }
 
 #article /* hebergements a marseille */
