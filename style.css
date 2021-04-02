@@ -166,7 +166,7 @@ h4, div
 
 #image_1 /* modification taille image/arrondie bordure image*/
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
    display: flex;
@@ -175,22 +175,22 @@ h4, div
 #image_heberg /* pour les image hebergements */
 {
    background-color: white;
-   border: 2px solid white;
-   border-radius: 20px;
+   border: 6px solid white;
+   border-radius: 10px;
    display: flex;
    flex-direction: column;
 }
 
 #image_2
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
 }
 
 #image_3
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
 }
@@ -206,21 +206,21 @@ h4, div
 
 #image_4
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
 }
 
 #image_5
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
 }
 
 #image_6
 {
-   width: 200px;
+   width: 250px;
    height: 125px;
    border-radius: 8px;
 }
