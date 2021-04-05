@@ -44,7 +44,12 @@ h4, div
 a
 {
    text-decoration: none;
-   color: #0065FC ;
+   color: black;
+}
+
+a:hover
+{
+   color: blue;
 }
 .hebergements_1:hover
 {
