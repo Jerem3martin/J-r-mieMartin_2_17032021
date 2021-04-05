@@ -169,7 +169,7 @@ h4, div
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius: 20px 20px 0px 0px;
    display: flex;
 }
 
@@ -177,23 +177,24 @@ h4, div
 {
    background-color: white;
    border: 6px solid white;
-   border-radius: 10px;
+   border-radius: 30px;
    display: flex;
    flex-direction: column;
+   display: flex;
 }
 
 #image_2
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius:  20px 20px 0px 0px;
 }
 
 #image_3
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius:  20px 20px 0px 0px;
 }
 
 .pack1
@@ -209,21 +210,21 @@ h4, div
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius:  20px 20px 0px 0px;
 }
 
 #image_5
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius:  20px 20px 0px 0px;
 }
 
 #image_6
 {
    width: 250px;
    height: 125px;
-   border-radius: 8px;
+   border-radius:  20px 20px 0px 0px;
 }
 
 .pack2
@@ -244,7 +245,7 @@ h4, div
    border-radius: 10px;
    font-weight: bold;
    margin-right: 40px;
-   width: 500px;
+   width: 550px;
 }
 
 #titre_popu
@@ -259,7 +260,7 @@ h4, div
    background-color: white;
    border: 2px solid white;
    border-radius: 10px;
-   width: 400px;
+   width: 500px;
    border-width: 4px;
    margin: 30px 20px 20px 20px ;
 }
@@ -312,7 +313,7 @@ h4, div
 
 #activ2
 {
-   width: 250px;
+   width: 350px;
    height: 200px;
    border-radius:  10px 10px 0px 0px;;
 }
@@ -327,7 +328,7 @@ h4, div
 
 #activ3
 {
-   width: 250px;
+   width: 350px;
    height: 150px;
    border-radius:  10px 10px 0px 0px;;
 }
@@ -362,7 +363,7 @@ h4, div
 
 #activ5
 {
-   width: 250px;
+   width: 350px;
    height: 200px;
    border-radius:  10px 10px 0px 0px;;
 }
@@ -376,7 +377,7 @@ h4, div
 
 #activ6
 {
-   width: 250px;
+   width: 350px;
    height: 150px;
    border-radius:  10px 10px 0px 0px;;
 }
