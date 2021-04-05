@@ -148,20 +148,21 @@ h4, div
 {
    display: flex;
    justify-content: space-between;
-   height: 720px;
+   height: 800px;
 }
 
 #article /* hebergements a marseille */
 {
    background-color:  #F2F2F2;
    display: flex;
-   justify-content:flex-start ;
+   justify-content: space-evenly ;
    flex-wrap: wrap;
    padding: 5px;
    border: 2px solid  #F2F2F2 ;
    border-radius: 20px ;
-   width: 900px;
+   width: 1100px;
    margin-left: 30px;
+   flex-direction: column;
 }
 
 #image_1 /* modification taille image/arrondie bordure image*/
@@ -243,6 +244,7 @@ h4, div
    border-radius: 10px;
    font-weight: bold;
    margin-right: 40px;
+   width: 500px;
 }
 
 #titre_popu
@@ -445,7 +447,6 @@ ul
 .afficher
 {
    display: flex;
-   justify-content: flex-end;
    margin-top: 20px;
    margin-left: 20px;
 }
