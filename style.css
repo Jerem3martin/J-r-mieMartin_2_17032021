@@ -43,13 +43,13 @@ h4, div
 
 .hebergements_1:hover
 {
-   border-top: 2px #DEEBFF solid ;
+   border-top: 2px #0065FC solid ;
    color: blue;
 }
 
 .activites:hover
 {
-   border-top: 2px #DEEBFF solid ;
+   border-top: 2px #0065FC solid ;
    color: #0065FC;
 }
 
@@ -61,7 +61,7 @@ h4, div
 
 .inscrire:hover
 {
-   border-top: 2px #DEEBFF solid ;
+   border-top: 2px #0065FC solid ;
    color: #0065FC;
 }
 
@@ -148,6 +148,7 @@ h4, div
 {
   display: flex;
   font-weight: bold;
+  margin-left: 30px;
 }
 
 .parents/* bloc herbergements + populaire */
@@ -251,7 +252,7 @@ h4, div
    border: 2px solid  #F2F2F2 ;
    border-radius: 10px;
    font-weight: bold;
-   margin-right: 40px;
+   margin-right: 65px;
    width: 550px;
 }
 
@@ -260,6 +261,7 @@ h4, div
    display: flex;
    justify-content: space-between;
    margin-right: 20px;
+   margin-left: 30px;
 }
 
 #image_popu
