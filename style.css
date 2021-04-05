@@ -152,6 +152,8 @@ a:hover
 #liste /* filtres economique + familial + romantique + animaux */
 {
    display: flex;
+   width: 900px;
+   justify-content: space-between;
 }
 
 #titre_heber
