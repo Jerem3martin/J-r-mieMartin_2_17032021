@@ -1,3 +1,4 @@
+/*police*/
 @font-face
 {
    font-family: 'raleway' ;
@@ -13,7 +14,10 @@ h4, div
 {
    font-weight: bold;
 }
-#header /*logo + nav*/
+/*fin police*/
+
+/*logo + nav*/
+#header
 {
    display: flex;
   flex-direction: row;
@@ -24,21 +28,6 @@ h4, div
 #logo
 {
    width: 7%;
-}
-
-#nav /*liste de hebergements/activites/s'inscrire*/
-{
-   display:flex;
-   justify-content: flex-end;
-   margin-right: 50px;
-}
-
-#liste_1
-{
-   display: flex;
-   width: 400px;
-   justify-content: space-around;
-   
 }
 
 a
@@ -75,12 +64,33 @@ a:hover
    color: #0065FC;
 }
 
+#nav /*liste de hebergements/activites/s'inscrire*/
+{
+   display:flex;
+   justify-content: flex-end;
+   margin-right: 50px;
+}
+
+#liste_1
+{
+   display: flex;
+   width: 400px;
+   justify-content: space-around;
+   
+}
+/*fin logo + nav */
+
+
+
 #section
 {
    margin-left: 70px;
 }
 
-#filtres /* vacance/liste/article/populaire/activite */
+/* vacance/liste/article/populaire/activite */
+
+
+#filtres 
 {
    display: flex;
    align-items:baseline ;
@@ -146,15 +156,62 @@ a:hover
    color: #0065FC;
 }
 
+/*fin vacance/liste/article/populaire/activite */
+
+
+
+
 #vacance /* texte entre logo et herbergements */
 
 
-#liste /* filtres economique + familial + romantique + animaux */
+
+
+
+
+/* barre de recherche */
+
+#search
+{
+   width: 200px;
+}
+
+::placeholder
+{
+   font-size: 1em;
+   font-weight: bold;
+   color: black;
+}
+
+#info
 {
    display: flex;
-   width: 800px;
-   justify-content: space-between;
+   justify-content: center;
+   width: 10px;
+   color:#0065FC ;
+   border: 1px solid #F2F2F2 ;
+   border-radius: 50%;
+   padding: 8px;
+   margin: 10px;
+   height: 10px;
+   align-items: center;
 }
+
+#submit
+{
+   border: 1px solid #0065FC ;
+   border-radius: 1px 15px 15px 1px;
+   background-color: #0065FC;
+   color: white;
+   padding-left: 1px;
+   width: 150px;
+   font-size: 0.9em;
+}
+/* fin barre de recherche */
+
+
+
+/* filtres economique + familial + romantique + animaux */
+/* fin filtres economique + familial + romantique + animaux */
 
 #titre_heber
 {
@@ -163,6 +220,12 @@ a:hover
   margin-left: 30px;
 }
 
+#liste 
+{
+   display: flex;
+   width: 800px;
+   justify-content: space-between;
+}
 .parents/* bloc herbergements + populaire */
 {
    display: flex;
@@ -466,28 +529,6 @@ a:hover
    margin-right: 250px
 }
 
-#search
-{
-   width: 200px;
-}
-
-::placeholder
-{
-   font-size: 1em;
-   font-weight: bold;
-   color: black;
-}
-
-#submit
-{
-   border: 1px solid #0065FC ;
-   border-radius: 1px 15px 15px 1px;
-   background-color: #0065FC;
-   color: white;
-   padding-left: 1px;
-   width: 150px;
-   font-size: 0.9em;
-}
 
 ul
 {
@@ -563,19 +604,7 @@ ul
    color:#F2F2F2;
 }
 
-#info
-{
-   display: flex;
-   justify-content: center;
-   width: 10px;
-   color:#0065FC ;
-   border: 1px solid #F2F2F2 ;
-   border-radius: 50%;
-   padding: 8px;
-   margin: 10px;
-   height: 10px;
-   align-items: center;
-}
+
 
 #logement
 {
