@@ -82,13 +82,17 @@ a:hover
 
 
 
+/*section = tout entre le logo et heergements */
 #section
 {
    margin-left: 70px;
 }
 
-/* vacance/liste/article/populaire/activite */
+/*fin section */
 
+
+
+/* vacance/liste/article/populaire/activite */
 
 #filtres 
 {
