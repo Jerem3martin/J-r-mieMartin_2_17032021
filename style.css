@@ -287,6 +287,17 @@ a:hover
 
 
 
+/* texte entre filtres et hebergements */
+#logement
+{
+   display: flex;
+   align-items: center;
+}
+/* fin texte entre filtres et hebergements */
+
+
+
+
 /*hebergements a Marseille */
 
 #titre_heber
@@ -644,11 +655,7 @@ ul
    margin-left: 20px;
 }
 
-#logement
-{
-   display: flex;
-   align-items: center;
-}
+
 
 .fas
 {
