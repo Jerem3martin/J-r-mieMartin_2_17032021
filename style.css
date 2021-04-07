@@ -485,7 +485,7 @@ a:hover
    background-color: #0065FC;
    color: white;
    padding-left: 1px;
-   width: 120px;
+   width: 150px;
    font-size: 0.9em;
 }
 
@@ -586,7 +586,7 @@ ul
 #recherche
 {
    display: flex;
-   height: 50px;
+   height: 40px;
 }
 
 .fas
@@ -601,6 +601,8 @@ ul
    padding: 5px;
    display: flex;
    align-items: center;
+   width: 25px;
+   justify-content: center;
 }
 
 #padding
