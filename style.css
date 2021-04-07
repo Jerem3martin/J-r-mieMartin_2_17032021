@@ -474,7 +474,7 @@ a:hover
 #submit
 {
    border: 1px solid #0065FC ;
-   border-radius: 1px 10px 10px 1px;
+   border-radius: 1px 15px 15px 1px;
    background-color: #0065FC;
    color: white;
    padding-left: 1px;
