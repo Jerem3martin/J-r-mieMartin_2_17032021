@@ -1,4 +1,4 @@
-/*police*/
+/* police */
 @font-face
 {
    font-family: 'raleway' ;
@@ -14,9 +14,12 @@ h4, div
 {
    font-weight: bold;
 }
-/*fin police*/
+/* fin police */
 
-/*logo + nav*/
+
+
+
+/* logo + nav */
 #header
 {
    display: flex;
@@ -64,7 +67,7 @@ a:hover
    color: #0065FC;
 }
 
-#nav /*liste de hebergements/activites/s'inscrire*/
+#nav /* liste de hebergements/activites/s'inscrire */
 {
    display:flex;
    justify-content: flex-end;
@@ -82,6 +85,8 @@ a:hover
 
 
 
+
+
 /*section = tout entre le logo et heergements */
 #section
 {
@@ -89,6 +94,8 @@ a:hover
 }
 
 /*fin section */
+
+
 
 
 
@@ -165,6 +172,8 @@ a:hover
 
 
 
+
+
 #vacance /* texte entre logo et herbergements */
 
 
@@ -231,6 +240,9 @@ a:hover
 
 
 
+
+
+
 /* filtres economique + familial + romantique + animaux */
 
 #liste 
@@ -291,6 +303,9 @@ a:hover
 
 
 
+
+
+
 /* texte entre filtres et hebergements */
 #logement
 {
@@ -298,6 +313,9 @@ a:hover
    align-items: center;
 }
 /* fin texte entre filtres et hebergements */
+
+
+
 
 
 
@@ -413,6 +431,10 @@ a:hover
 
 
 
+
+
+
+
  /*icone etoile hebergements + populaire */
 #etoile_1
 {
@@ -426,6 +448,10 @@ a:hover
    color:#F2F2F2;
 }
 /* fin icone etoile hebergements + populaire */
+
+
+
+
 
 
 
@@ -490,6 +516,10 @@ a:hover
    object-fit: cover;
 }
 /* fin les plus populaire */
+
+
+
+
 
 
 
@@ -616,6 +646,11 @@ a:hover
 
 
 
+
+
+
+
+
 /* propos/hebergements/assistance */
 
 #footer 
@@ -646,6 +681,11 @@ a:hover
    margin-right: 250px
 }
 /* fin propos/hebergements/assistance */
+
+
+
+
+
 
 ul
 {
