@@ -47,6 +47,7 @@ a:hover
 {
    border-top: 2px #0065FC solid ;
    color: blue;
+   padding: 10px;
 }
 
 .activites:hover
@@ -715,7 +716,23 @@ ul
 
 
 
+@media
 
+all and (min-width: 481px) and (max-width:740px)
+
+{
+
+h1
+{
+   color: red;
+}
+
+.parents
+{
+   display: flex;
+   flex-direction: column;
+}
+}
 
 
 
@@ -729,6 +746,7 @@ all and (orientation: portrait)
 {
    flex-wrap: wrap;
    width: auto;
+   margin: 0px;
 }  
 
 #logo
@@ -752,35 +770,53 @@ all and (orientation: portrait)
 {
     flex-wrap: wrap;
     margin-top: 20px;
+    margin-left: 0px;
 }
 #liste
 {
    flex-wrap: wrap;
+   margin: 0px;
 }
 
 .parents
 {
+   height: auto;
+   width: auto;
+   margin: 0px;
    flex-wrap: wrap;
    flex-direction: column-reverse;
 }
 
 #article
 {
+   height: auto;
+   width: auto;
+   margin: 0px;
+   padding: 0px;
    flex-wrap: wrap;
 }
 
 .pack1
 {
-   
+   height: auto;
+   width: auto;
+   margin: 0px;
+   padding: 0px;
    flex-direction: column;
 }
 
 .pack2
 {
+   height: auto;
+   width: auto;
+   margin: 0px;
+   padding: 0px;
    flex-direction: column;
 }
+
 #populaire
 {
+   width: auto;
    flex-wrap: wrap;
 }
 
