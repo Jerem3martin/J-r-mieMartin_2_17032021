@@ -824,6 +824,11 @@ all and (orientation: portrait)
    justify-content: center;
 }
 
+.afficher
+{
+   display: none;
+}
+
 #populaire
 {
    flex-wrap: wrap;
@@ -836,11 +841,17 @@ all and (orientation: portrait)
 {
    justify-content: space-between;
 }
+
+#titre_activite
+{
+   justify-content: center;
+}
 #activite
 {
    width: auto;
    flex-direction: column;
    flex-wrap: wrap;
+   align-items: center;
 }
 
 #footer
@@ -848,7 +859,22 @@ all and (orientation: portrait)
    width: auto;
    flex-direction: column;
    flex-wrap: wrap;
+   align-items: center;
+}
+
+#propos
+{
+
 }
 
 
+#hebergements_2
+{
+
+}
+
+#assistance
+{
+
+}
 }
