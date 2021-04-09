@@ -794,6 +794,8 @@ all and (orientation: portrait)
    margin: 0px;
    padding: 0px;
    flex-wrap: wrap;
+   border: transparent;
+   background-color: white;
 }
 
 .pack1
