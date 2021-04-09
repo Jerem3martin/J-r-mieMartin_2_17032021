@@ -785,6 +785,7 @@ all and (orientation: portrait)
    margin: 0px;
    flex-wrap: wrap;
    flex-direction: column-reverse;
+   justify-content: center;
 }
 
 #article
@@ -796,6 +797,7 @@ all and (orientation: portrait)
    flex-wrap: wrap;
    border: transparent;
    background-color: white;
+   justify-content: center;
 }
 
 .pack1
@@ -805,6 +807,7 @@ all and (orientation: portrait)
    margin: 0px;
    padding: 0px;
    flex-direction: column;
+   justify-content: center;
 }
 
 .pack2
@@ -814,12 +817,14 @@ all and (orientation: portrait)
    margin: 0px;
    padding: 0px;
    flex-direction: column;
+   justify-content: center;
 }
 
 #populaire
 {
    width: auto;
    flex-wrap: wrap;
+   justify-content: center;
 }
 
 #activite
