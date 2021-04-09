@@ -788,6 +788,10 @@ all and (orientation: portrait)
    justify-content: center;
 }
 
+#titre_heber
+{
+   align-self: center;
+}
 #article
 {
    height: auto;
