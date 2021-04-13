@@ -807,6 +807,7 @@ all and (orientation: portrait)
 .pack1
 {
    height: auto;
+   width: auto;
    margin: 0px;
    padding: 0px;
    flex-direction: column;
@@ -816,6 +817,7 @@ all and (orientation: portrait)
 .pack2
 {
    height: auto;
+   width: auto;
    margin: 0px;
    padding: 0px;
    flex-direction: column;
