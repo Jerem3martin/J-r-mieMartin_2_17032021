@@ -722,15 +722,19 @@ all and (min-width: 481px) and (max-width:740px)
 
 {
 
-h1
+h1 , p
 {
    color: red;
 }
 
 .parents
 {
-   display: flex;
+   height: auto;
+   width: auto;
+   margin: 0px;
+   flex-wrap: wrap;
    flex-direction: column;
+   justify-content: center;
 }
 }
 
@@ -804,6 +808,26 @@ all and (orientation: portrait)
    justify-content: center;
 }
 
+#image_heberg
+{
+
+}
+
+#image_1
+{
+ width: 500px;
+}
+
+#image_2
+{
+   width: 500px;
+}
+
+#image_3
+{
+   width: 500px;
+}
+
 .pack1
 {
    height: auto;
@@ -824,6 +848,20 @@ all and (orientation: portrait)
    justify-content: center;
 }
 
+#image_4
+{
+   width: 500px;
+}
+
+#image_5
+{
+   width: 500px;
+}
+
+#image_6
+{
+   width: 500px;
+}
 .afficher
 {
    display: none;
