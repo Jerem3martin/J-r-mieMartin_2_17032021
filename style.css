@@ -253,7 +253,7 @@ a:hover
 #liste 
 {
    display: flex;
-   width: 800px;
+   width: 850px;
    justify-content: space-between;
 }
 
@@ -280,6 +280,7 @@ a:hover
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 15px;
 }
 
 #coeur
@@ -292,6 +293,7 @@ a:hover
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 15px;
 }
 
 #dog
@@ -304,6 +306,7 @@ a:hover
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 15px;
 }
 /* fin filtres economique + familial + romantique + animaux */
 
