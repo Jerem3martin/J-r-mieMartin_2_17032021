@@ -360,6 +360,10 @@ a:hover
    margin-right: 50px;
 }
 
+#texte
+{
+   margin-left: 15px;
+}
 #image_1 /* modification taille image/arrondie bordure image*/
 {
    width: 250px;
