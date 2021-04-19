@@ -1,7 +1,7 @@
 /* police */
 @font-face
 {
-   font-family: 'raleway' ;
+   font-family: 'raleway', Helvetica, Arial, sans-serif; ;
    src: url(Raleway-VariableFont_wght.ttf);
 }
 
@@ -10,6 +10,10 @@ p, h1, h2, h3, h4, li, ul, div
    font-family: 'raleway';
 }
 
+#texte_no_bold
+{
+   font-weight: 300;
+}
 h4, div
 {
    font-weight: bold;
