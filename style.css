@@ -776,6 +776,11 @@ screen and (min-width:320px) and (max-width: 425px)
    padding: 0px;
 }
 
+#vacance
+{
+   width: 400px;
+}
+
 .hebergements_1
 {
    border-bottom: 2px #0065FC solid;
