@@ -123,8 +123,9 @@ a:hover
 #search
 {
    width: 200px;
-   border-color: #F2F2F2;
    font-weight: bold;
+   border: none;
+   border: 1px #F2F2F2 solid;
 }
 
 #marker
