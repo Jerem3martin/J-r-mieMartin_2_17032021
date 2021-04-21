@@ -1,13 +1,13 @@
 /* police */
 @font-face
 {
-   font-family: 'raleway', Helvetica, Arial, sans-serif; ;
+   font-family: "raleway, Helvetica, Arial, sans-serif"; 
    src: url(Raleway-VariableFont_wght.ttf);
 }
 
 p, h1, h2, h3, h4, li, ul, div
 {
-   font-family: 'raleway';
+   font-family: "raleway, Helvetica, Arial, sans-serif";
 }
 
 #texte_no_bold
@@ -999,6 +999,8 @@ screen and (min-width:320px) and (max-width: 425px)
 
 }
 
+}
+
 @media
 
 screen and (min-width: 426px) and (max-width:770px)
@@ -1029,4 +1031,13 @@ screen and (min-width: 426px) and (max-width:770px)
 
 
 
+}
+
+@media (max-width: 1024px)
+
+{
+   *
+   {
+      
+   }
 }
