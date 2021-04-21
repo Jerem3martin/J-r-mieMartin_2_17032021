@@ -797,12 +797,25 @@ screen and (min-width:320px) and (max-width: 425px)
    border-top: none;
 }
 
+.activites
+{
+   border-bottom: 2px #F2F2F2 solid;
+   padding-bottom: 10px;
+   border-top: none;
+}
+
 .inscrire
 {
    position: relative;
    right: 65px;
    bottom: 45px;
 }
+
+#section
+{
+
+}
+
 #filtres
 {
     flex-wrap: wrap;
@@ -920,6 +933,7 @@ screen and (min-width:320px) and (max-width: 425px)
 {
    justify-content: center;
    display: flex;
+   width: 500px;
 }
 #activite
 {
@@ -927,6 +941,7 @@ screen and (min-width:320px) and (max-width: 425px)
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
+   margin-left: 40px;
 }
 
 #activite1
@@ -987,7 +1002,7 @@ screen and (min-width:320px) and (max-width: 425px)
 
 #footer
 {
-   width: auto;
+   width: fit-content;
    flex-direction: column;
    flex-wrap: wrap;
 }
