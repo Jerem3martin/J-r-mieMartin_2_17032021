@@ -763,25 +763,31 @@ screen and (min-width:320px) and (max-width: 425px)
 body
 {
    flex-wrap: wrap;
-   width: auto;
-   margin: 0px;
+   width: fit-content;
    font-size: 1.1em;
 }  
-
-#logo
-{
-   width: 25%;
-}
 
 #header
 {
    flex-wrap: wrap;
-   width: auto;
+   margin: 0px;
+}
+
+#nav
+{
+   width: 100%;
+   display: flex;
+}
+
+#logo
+{
+   width: 25%;
+   padding-left: 10px;
 }
 
 #liste_1
 {
-   width: auto;
+   width: 100%;
    justify-content: space-between;
    padding: 0px;
 }
@@ -796,6 +802,9 @@ body
    border-bottom: 2px #0065FC solid;
    padding-bottom: 10px;
    border-top: none;
+   width: 50%;
+   display: flex;
+   justify-content: center;
 }
 
 .activites
@@ -803,19 +812,18 @@ body
    border-bottom: 2px #F2F2F2 solid;
    padding-bottom: 10px;
    border-top: none;
+   width: 50%;
+   display: flex;
+   justify-content: center;
 }
 
 .inscrire
 {
-   position: relative;
-   right: 65px;
-   bottom: 45px;
+   position: absolute;
+   top: 15px;
+   left: 470px;
 }
 
-#section
-{
-
-}
 
 #filtres
 {
@@ -823,10 +831,33 @@ body
     margin-top: 20px;
     margin-left: 0px;
 }
+
 #liste
 {
    flex-wrap: wrap;
    margin: 0px;
+}
+
+#economique
+{
+   margin: 10px;
+}
+
+#familial
+{
+   margin: 10px;
+   position: absolute;
+   left: 350px;
+}
+
+#romantique
+{
+   margin: 10px;
+}
+
+#animaux
+{
+   margin: 10px;
 }
 
 .parents
@@ -836,7 +867,7 @@ body
    margin: 0px;
    flex-wrap: wrap;
    flex-direction: column-reverse;
-   justify-content: center;
+   margin-right: 50px;
 }
 
 #titre_heber
@@ -938,7 +969,7 @@ body
 }
 #activite
 {
-   width: auto;
+   width: fit-content;
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
@@ -1010,18 +1041,18 @@ body
 
 #propos
 {
-
+   padding-left: 50px;
 }
 
 
 #hebergements_2
 {
-
+  padding-left: 50px;
 }
 
 #assistance
 {
-
+   padding-left: 50px;
 }
 
 }
