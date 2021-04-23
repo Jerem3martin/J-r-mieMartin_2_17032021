@@ -799,7 +799,7 @@ body
 
 #vacance
 {
-   width: 400px;
+   width: 480px;
 }
 
 .hebergements_1
@@ -827,6 +827,16 @@ body
    position: absolute;
    top: 15px;
    left: 470px;
+}
+
+#section
+{
+
+}
+
+#recherche
+{
+
 }
 
 #submit
@@ -858,28 +868,35 @@ body
 {
    flex-wrap: wrap;
    margin: 0px;
+   padding: 0px;
+   display: flex;
+   flex-direction: column;
 }
 
 #economique
 {
    margin: 10px;
+   width: fit-content;
 }
 
 #familial
 {
    margin: 10px;
    position: absolute;
-   left: 350px;
+   left: 310px;
+   width: fit-content;
 }
 
 #romantique
 {
    margin: 10px;
+   width: fit-content;
 }
 
 #animaux
 {
    margin: 10px;
+   width: fit-content;
 }
 
 .parents
