@@ -1113,6 +1113,13 @@ screen and (min-width: 426px) and (max-width:770px)
    width: 20%;
 }
 
+#liste_1
+{
+   display: flex;
+   position: absolute;
+   left: 550px;
+}
+
 .parents
 {
    height: auto;
