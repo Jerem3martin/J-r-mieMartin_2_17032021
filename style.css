@@ -1132,28 +1132,115 @@ screen and (min-width: 426px) and (max-width:770px)
 
 #article
 {
-   flex-wrap: wrap;
-   flex-direction: column;
+  display: flex;
+  margin: 0px;
 
 }
 
 #populaire
 {
-
+   display: flex;
+   width: 100%;
+   margin-left: 125px;
+   margin-top: 20px;
+   margin-bottom: 20px;
 }
 
+#titre_popu
+{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+#titre_activite
+{
+   margin-left: 380px;
+   margin-bottom: 30px;
+}
 
 #activite
+{
+   width: fit-content;
+   flex-direction: column;
+   flex-wrap: wrap;
+   align-items: center;
+}
+
+#activite1
+{
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
+
+#activ1
+{
+  width: fit-content;
+}
+
+#image_colone_1
+{
+   margin-left: 150px;
+   margin-bottom: 50px;
+}
+
+#activ2
+{
+   width: 700px;
+}
+
+#activ3
+{
+   width: 700px;
+}
+
+#activite4
+{
+   margin-left: 150px;
+   margin-bottom: 50px;
+}
+
+#activ4
+{
+   width: 700px;
+}
+
+#image_colone_2
+{
+   margin-left: 150px;
+   margin-bottom: 50px;
+}
+
+#activ5
+{
+   width: 700px;
+}
+
+#activ6
+{
+   width: 700px;
+}
+
+#footer
+{
+  width: fit-content;
+}
+
+#propos
 {
 
 }
 
+#hebergements_2
+{
 
 }
 
+#assistance
+{
 
+}
 
-
+}
 @media (max-width: 1024px)
 
 {
