@@ -904,10 +904,10 @@ body
 {
    height: auto;
    width: auto;
-   margin: 0px;
+   margin-left: 0px;
    flex-wrap: wrap;
    flex-direction: column-reverse;
-   margin-right: 50px;
+   margin-right: 80px;
 }
 
 #titre_heber
@@ -1150,6 +1150,16 @@ screen and (min-width: 426px) and (max-width:770px)
 {
    display: flex;
    justify-content: space-evenly;
+}
+
+#image_popu
+{
+  width: auto;
+}
+
+#popu1
+{
+
 }
 
 #titre_activite
