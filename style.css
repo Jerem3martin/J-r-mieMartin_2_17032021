@@ -897,6 +897,7 @@ body
 {
    margin: 10px;
    width: fit-content;
+   
 }
 
 .parents
@@ -1096,11 +1097,21 @@ body
 
 }
 
+
+
+
+
+
 @media
 
 screen and (min-width: 426px) and (max-width:770px)
 
 {
+
+#logo
+{
+   width: 20%;
+}
 
 .parents
 {
@@ -1125,8 +1136,16 @@ screen and (min-width: 426px) and (max-width:770px)
 }
 
 
+#activite
+{
 
 }
+
+
+}
+
+
+
 
 @media (max-width: 1024px)
 
