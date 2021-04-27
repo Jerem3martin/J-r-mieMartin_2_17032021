@@ -1233,21 +1233,32 @@ screen and (min-width: 426px) and (max-width:770px)
 #footer
 {
   width: fit-content;
+  height: 300px;
 }
 
 #propos
 {
-
+  margin-right: 100px;
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
 }
 
 #hebergements_2
 {
-
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 180px;
 }
 
 #assistance
 {
-
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  height: 150px;
 }
 
 }
