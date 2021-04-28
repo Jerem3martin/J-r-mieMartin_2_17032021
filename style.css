@@ -380,7 +380,7 @@ a:hover
 
 #image_1 /* modification taille image/arrondie bordure image*/
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius: 20px 20px 0px 0px;
    display: flex;
@@ -400,7 +400,7 @@ a:hover
 
 #image_2
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius:  20px 20px 0px 0px;
    object-fit: cover;
@@ -408,7 +408,7 @@ a:hover
 
 #image_3
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius:  20px 20px 0px 0px;
    object-fit: cover;
@@ -419,13 +419,13 @@ a:hover
    display: flex;
    align-items: center;
    margin-top: 5px;
-   width: 1000px;
+   width: 100%;
    justify-content: space-around;
 }
 
 #image_4
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius:  20px 20px 0px 0px;
    object-fit: cover;
@@ -433,7 +433,7 @@ a:hover
 
 #image_5
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius:  20px 20px 0px 0px;
    object-fit: cover;
@@ -441,7 +441,7 @@ a:hover
 
 #image_6
 {
-   width: 250px;
+   width: 300px;
    height: 125px;
    border-radius:  20px 20px 0px 0px;
    object-fit: cover;
@@ -451,7 +451,7 @@ a:hover
 {
    display: flex;
    align-items: center;
-   width: 1000px;
+   width: 100%;
    justify-content: space-around;
 }
 /* fin hebergements a Marseille */
