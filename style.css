@@ -1204,8 +1204,7 @@ screen and (min-width: 426px) and (max-width:770px)
 #populaire
 {
    display: flex;
-   width: 70%;
-   margin-left: 125px;
+   width: 100%;
    margin-top: 20px;
    margin-bottom: 20px;
 }
@@ -1234,7 +1233,7 @@ screen and (min-width: 426px) and (max-width:770px)
 
 #activite
 {
-   width: fit-content;
+   width: 100%;
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
@@ -1242,61 +1241,63 @@ screen and (min-width: 426px) and (max-width:770px)
 
 #activite1
 {
-  margin-left: 150px;
-  margin-bottom: 50px;
+  width: 100%;
 }
 
 #activ1
 {
-  width: fit-content;
+  width: 100%;
+  height: 200px;
 }
 
 #image_colone_1
 {
-   margin-left: 150px;
-   margin-bottom: 50px;
+  width: 100%;
 }
 
 #activ2
 {
-   width: 700px;
+   width: 100%;
+   height: 200px;
 }
 
 #activ3
 {
-   width: 700px;
+   width: 100%;
+   height: 200px;
 }
 
 #activite4
 {
-   margin-left: 150px;
-   margin-bottom: 50px;
+  width: 100%;
 }
 
 #activ4
 {
-   width: 700px;
+   width: 100%;
+   height: 200px;
 }
 
 #image_colone_2
 {
-   margin-left: 150px;
-   margin-bottom: 50px;
+   width: 100%;
 }
 
 #activ5
 {
-   width: 700px;
+   width: 100%;
+   height: 200px;
 }
 
 #activ6
 {
-   width: 700px;
+   width: 100%;
+   height: 200px;
 }
 
 #footer
 {
-  width: fit-content;
+  width: 100%;
   height: 300px;
 }
 
