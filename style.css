@@ -193,6 +193,7 @@ a:hover
 {
    display: flex;
    align-items:baseline ;
+   
 }
 
 #economique
@@ -262,7 +263,7 @@ a:hover
 #liste 
 {
    display: flex;
-   width: 850px;
+   width: 55%;
    justify-content: space-between;
 }
 
@@ -476,7 +477,7 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
-   margin-left: 215px;
+   margin-left: 60%;
    flex-wrap: wrap;
 }
 
@@ -505,7 +506,7 @@ a:hover
    border-radius: 10px;
    font-weight: bold;
    margin-right: 65px;
-   width: 40%;
+   width: 50%;
 }
 
 #titre_popu
@@ -529,14 +530,14 @@ a:hover
 
 #texte_2
 {
-   margin-left: 215px;
+   margin-left: 60%;
    font-size: 0.7em;
 }
 
 #popu1
 {
-   width: 200px;
-   height: 150px;
+   width: 55%;
+   height: 100%;
    float: left;
    border-radius: 10px 0px 0px 10px ;
    object-fit: cover;
@@ -544,8 +545,8 @@ a:hover
 
 #popu2
 {
-   width: 200px;
-   height: 150px;
+   width: 55%;
+   height: 100%;
    float: left;
    border-radius: 10px 0px 0px 10px;
    object-fit: cover;
@@ -553,7 +554,7 @@ a:hover
 
 #popu3
 {
-   width: 200px;
+   width: 55%;
    height: 150px;
    float: left;
    border-radius: 10px 0px 0px 10px;
