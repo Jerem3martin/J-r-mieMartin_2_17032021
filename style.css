@@ -396,6 +396,7 @@ a:hover
    flex-direction: column;
    display: flex;
    box-shadow: 1px 10px 10px 1px silver;
+   width: 30%;
 }
 
 #image_2
