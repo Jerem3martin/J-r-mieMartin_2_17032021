@@ -477,6 +477,7 @@ a:hover
    flex-direction: row;
    color: #0065FC;
    margin-left: 215px;
+   flex-wrap: wrap;
 }
 
 #etoile_gris
