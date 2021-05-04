@@ -1183,11 +1183,39 @@ screen and (min-width: 426px) and (max-width:770px)
    width: 20%;
 }
 
+#header
+{
+   width: 99%;
+}
+
+#nav
+{
+   width: 100%;
+}
+
+.hebergements_1
+{
+   padding-right: 0px;
+}
+
+.activites
+{
+   padding-right: 10px;
+   padding-left: 10px;
+}
+
+.inscrire
+{
+   padding-left: 0px;
+}
+
+
 #liste_1
 {
    display: flex;
-   position: absolute;
-   left: 550px;
+   width: 100%;
+   padding: 0px;
+   font-size: 0.7em;
 }
 
 .parents
