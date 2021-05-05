@@ -880,6 +880,7 @@ body
     flex-wrap: wrap;
     margin-top: 20px;
     margin-left: 0px;
+    flex-direction: column;
 }
 
 #liste
