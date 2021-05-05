@@ -849,11 +849,6 @@ body
    width: 100%;
 }
 
-#recherche
-{
-
-}
-
 #search
 {
    width: 250px;
@@ -1288,11 +1283,6 @@ screen and (min-width: 426px) and (max-width:770px)
   width: auto;
 }
 
-#popu1
-{
-
-}
-
 #titre_activite
 {
    margin-left: 380px;
@@ -1420,19 +1410,5 @@ screen and (min-width: 426px) and (max-width:770px)
    width: 70%;
 }
 
-#populaire
-{
-
 }
-
-#image_popu
-{
-
-}
-
-#activite
-{
-
-}
-
 }
