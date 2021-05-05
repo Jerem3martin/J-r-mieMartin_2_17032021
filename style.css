@@ -902,7 +902,7 @@ body
 {
    margin: 10px;
    position: absolute;
-   left: 310px;
+   left: 230px;
    width: fit-content;
 }
 
@@ -915,7 +915,7 @@ body
 #animaux
 {
    margin: 10px;
-   width: fit-content;
+   width: 100%;
    
 }
 
