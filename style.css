@@ -1039,14 +1039,14 @@ body
 
 #image_popu
 {
-   height: 250px;
+   height: 200px;
 }
 
 
 #popu1
 {
-   width: 300px;
-   height: 250px;
+   width: 150px;
+   height: 200px;
 }
 
 #popu2
@@ -1065,7 +1065,7 @@ body
 {
    font-size: 1em;
    flex-wrap: wrap;
-   padding-left: 115px;
+   margin-left: 50%;
 }
 
 #etoile_2
