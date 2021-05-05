@@ -1281,6 +1281,8 @@ screen and (min-width: 426px) and (max-width:770px)
 #activite1
 {
   width: 100%;
+  margin-left: 0px;
+  margin-right: 60px;
 }
 
 #activ1
@@ -1292,6 +1294,7 @@ screen and (min-width: 426px) and (max-width:770px)
 #image_colone_1
 {
   width: 100%;
+  margin-right: 60px;
 }
 
 #activ2
@@ -1309,6 +1312,7 @@ screen and (min-width: 426px) and (max-width:770px)
 #activite4
 {
   width: 100%;
+  margin-right: 60px;
 }
 
 #activ4
