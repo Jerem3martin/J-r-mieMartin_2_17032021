@@ -852,6 +852,11 @@ body
 
 }
 
+#search
+{
+   width: 250px;
+}
+
 #submit
 {
    display: none;
