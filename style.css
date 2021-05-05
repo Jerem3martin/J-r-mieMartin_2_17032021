@@ -1073,7 +1073,7 @@ body
 }
 #activite
 {
-   width: 100%;
+   width: 65%;
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
@@ -1083,6 +1083,7 @@ body
 {
    width: 90%;
    margin-bottom: 30px;
+   margin-left: 0px;
 }
 
 #activ1
