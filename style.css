@@ -930,7 +930,7 @@ body
 #article
 {
    height: 100%;
-   width: 100%;
+   width: 60%;
    margin: 0px;
    padding: 0px;
    flex-wrap: wrap;
