@@ -10,10 +10,7 @@ body
    font-family: "raleway, Helvetica, Arial, sans-serif";
 }
 
-#texte_no_bold
-{
-   font-weight: 300;
-}
+
 h4, div, h1
 {
    font-weight: bold;
@@ -375,7 +372,13 @@ a:hover
 #texte
 {
    margin-left: 15px;
-   font-size: 0.7em;
+   font-size: 0.9rem;
+}
+
+#texte_no_bold
+{
+   font-weight: 300;
+   font-size: 0.9em;
 }
 
 #image_1 /* modification taille image/arrondie bordure image*/
@@ -396,7 +399,7 @@ a:hover
    flex-direction: column;
    display: flex;
    box-shadow: 1px 10px 10px 1px silver;
-   width: 30%;
+   width: 25%;
 }
 
 #image_2
@@ -540,7 +543,7 @@ a:hover
 #texte_2
 {
    margin-left: 60%;
-   font-size: 0.7em;
+   font-size: 0.9rem;
 }
 
 #popu1
@@ -608,6 +611,13 @@ a:hover
    box-shadow: 1px 1px 10px 1px #f2f2f2;
    margin-right: 30px;
    margin-left: 45px;
+}
+
+#padding
+{
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
 }
 
 #activ2
@@ -760,10 +770,7 @@ ul
    display: flex;
 }
 
-#padding
-{
-   padding-left: 10px;
-}
+
 
 
 
