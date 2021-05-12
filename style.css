@@ -77,7 +77,7 @@ a:hover
    color: #0065FC;
 }
 
-#nav /* liste de hebergements/activites/s'inscrire */
+#nav/* liste de hebergements/activites/s'inscrire */
 {
    display:flex;
    justify-content: flex-end;
@@ -790,6 +790,7 @@ body
    flex-wrap: wrap;
    width: 100%;
    font-size: 0.9em;
+   display: flex;
 }  
 
 #header
@@ -1292,8 +1293,8 @@ screen and (min-width: 426px) and (max-width:770px)
 
 #titre_activite
 {
-   margin-left: 380px;
    margin-bottom: 30px;
+   justify-content: center;
 }
 
 #activite
@@ -1394,6 +1395,7 @@ screen and (min-width: 426px) and (max-width:770px)
   margin-right: 0px;
 
 }
+
 @media (max-width: 1024px)
 
 {
@@ -1418,4 +1420,5 @@ screen and (min-width: 426px) and (max-width:770px)
 }
 
 }
+
 }
