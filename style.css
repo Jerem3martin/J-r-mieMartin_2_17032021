@@ -1062,25 +1062,26 @@ body
 #image_popu
 {
    height: 250px;
+   font-size: 1.6em;
 }
 
 
 #popu1
 {
-   width: 150px;
-   height: 150px;
+   width: 250px;
+   height: 250px;
 }
 
 #popu2
 {
-   width: 150px;
-   height: 150px;
+   width: 250px;
+   height: 250px;
 }
 
 #popu3
 {
-   width: 150px;
-   height: 150px;
+   width: 250px;
+   height: 250px;
 }
 
 #texte_2
