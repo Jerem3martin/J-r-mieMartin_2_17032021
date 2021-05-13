@@ -811,6 +811,7 @@ body
 {
    width: 25%;
    padding-left: 10px;
+   padding-top: 10px;
 }
 
 #liste_1
@@ -849,7 +850,7 @@ body
 {
    position: absolute;
    top: 15px;
-   left: 470px;
+   left: 520px;
 }
 
 #section
