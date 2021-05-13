@@ -859,6 +859,7 @@ body
    width: auto;
    margin-left: 25px;
    font-size: 1.4em;
+   height: 750px;
 }
 
 #recherche
@@ -923,8 +924,8 @@ body
 {
    margin: 10px;
    position: absolute;
-   left: 230px;
-   width: fit-content;
+   left: 320px;
+   width: auto;
 }
 
 #romantique
