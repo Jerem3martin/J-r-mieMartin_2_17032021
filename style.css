@@ -791,6 +791,7 @@ body
    width: 100%;
    font-size: 0.9em;
    display: flex;
+   flex-direction: column;
 }  
 
 #header
@@ -1158,7 +1159,6 @@ body
 {
    width: fit-content;
    flex-direction: column;
-   flex-wrap: wrap;
    font-size: 1em;
    line-height: 60px;
 }
