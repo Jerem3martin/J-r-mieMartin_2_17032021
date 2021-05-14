@@ -1105,7 +1105,7 @@ body
 }
 #activite
 {
-   width: 100%;
+   width: auto;
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
@@ -1175,7 +1175,7 @@ body
 
 #footer
 {
-   width: fit-content;
+   width: auto;
    flex-direction: column;
    font-size: 1em;
    line-height: 60px;
