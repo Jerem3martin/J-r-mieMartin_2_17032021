@@ -410,6 +410,11 @@ a:hover
    color: #0065FC;
 }
 
+#etoile_gris_1
+{
+   color:#F2F2F2;
+}
+
 
 
 
@@ -494,6 +499,11 @@ a:hover
    color: #0065FC;
 }
 
+#etoile_gris_3
+{
+   color:#F2F2F2;
+}
+
 
 
 .pack1
@@ -546,6 +556,11 @@ a:hover
    color: #0065FC;
 }
 
+#etoile_gris_4
+{
+   color:#F2F2F2;
+}
+
 
 
 
@@ -586,6 +601,11 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+}
+
+#etoile_gris_5
+{
+   color:#F2F2F2;
 }
 
 
@@ -652,25 +672,6 @@ a:hover
 
 
 /* fin hebergements a Marseille */
-
-
-
-
-
-
-
- /*icone etoile hebergements + populaire */
-
-
-
-#etoile_gris
-{
-   color:#F2F2F2;
-}
-/* fin icone etoile hebergements + populaire */
-
-
-
 
 
 
@@ -784,6 +785,11 @@ a:hover
    flex-wrap: wrap;
 }
 
+#etoile_gris_popu_2
+{
+   color:#F2F2F2;
+}
+
 
 
 
@@ -828,6 +834,11 @@ a:hover
    flex-wrap: wrap;
 }
 
+#etoile_gris_popu_3
+{
+   color:#F2F2F2;
+}
+
 
 /* fin les plus populaire */
 
@@ -854,6 +865,8 @@ a:hover
 }
 
 
+
+
 #activ1 /*image seulement*/
 {
    width: 100%;
@@ -870,11 +883,25 @@ a:hover
    margin-left: 45px;
 }
 
-#padding
+#padding_1
 {
    padding-left: 10px;
    font-size: 0.9rem;
    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+#image_colone_1
+{
+   display: flex;
+   flex-direction: column ;
+   justify-content: space-between;
+   margin-right: 30px;
 }
 
 #activ2
@@ -884,14 +911,25 @@ a:hover
    border-radius:  10px 10px 0px 0px;;
    object-fit: cover;
 }
+
 #activite2 /*image + texte*/
 {
    border: 2px solid #F2F2F2;
    border-radius: 20px;
    margin-bottom: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
-   
 }
+
+#padding_2
+{
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
+}
+
+
+
+
 
 #activ3
 {
@@ -908,13 +946,15 @@ a:hover
    
 }
 
-#image_colone_1
+#padding_3
 {
-   display: flex;
-   flex-direction: column ;
-   justify-content: space-between;
-   margin-right: 30px;
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
 }
+
+
+
 
 #activ4
 {
@@ -929,7 +969,24 @@ a:hover
    border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2;
    margin-right: 30px;
-   
+}
+
+#padding_4
+{
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
+}
+
+
+
+
+#image_colone_2
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   margin-right: 65px;
 }
 
 #activ5
@@ -947,6 +1004,16 @@ a:hover
    box-shadow: 1px 1px 10px 1px #f2f2f2
 }
 
+#padding_5
+{
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
+}
+
+
+
+
 #activ6
 {
    width: 100%;
@@ -960,16 +1027,16 @@ a:hover
    border: 2px solid #F2F2F2;
    border-radius: 20px;
    box-shadow: 1px 1px 10px 1px #f2f2f2
-   
 }
 
-#image_colone_2
+#padding_6
 {
-   display: flex;
-   flex-direction: column;
-   justify-content: space-between;
-   margin-right: 65px;
+   padding-left: 10px;
+   font-size: 0.9rem;
+   padding-bottom: 10px;
 }
+
+
 /* fin  activités a Marseille */
 
 
