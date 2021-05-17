@@ -378,7 +378,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg1 /* pour les image hebergements */
+#image_heberg_1 /* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -390,13 +390,13 @@ a:hover
    width: 25%;
 }
 
-#texte1
+#texte_1
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold1
+#texte_no_bold_1
 {
    font-weight: 300;
    font-size: 0.9em;
@@ -412,7 +412,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg2 /* pour les image hebergements */
+#image_heberg_2 /* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -424,13 +424,13 @@ a:hover
    width: 25%;
 }
 
-#texte2
+#texte_2
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold2
+#texte_no_bold_2
 {
    font-weight: 300;
    font-size: 0.9em;
@@ -447,7 +447,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg3/* pour les image hebergements */
+#image_heberg_3/* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -459,13 +459,13 @@ a:hover
    width: 25%;
 }
 
-#texte3
+#texte_3
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold3
+#texte_no_bold_3
 {
    font-weight: 300;
    font-size: 0.9em;
@@ -492,7 +492,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg4 /* pour les image hebergements */
+#image_heberg_4 /* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -504,13 +504,13 @@ a:hover
    width: 25%;
 }
 
-#texte4
+#texte_4
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold4
+#texte_no_bold_4
 {
    font-weight: 300;
    font-size: 0.9em;
@@ -527,7 +527,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg5 /* pour les image hebergements */
+#image_heberg_5 /* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -539,13 +539,13 @@ a:hover
    width: 25%;
 }
 
-#texte5
+#texte_5
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold5
+#texte_no_bold_5
 {
    font-weight: 300;
    font-size: 0.9em;
@@ -563,7 +563,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg6/* pour les image hebergements */
+#image_heberg_6/* pour les image hebergements */
 {
    background-color: white;
    border: 6px solid white;
@@ -575,13 +575,13 @@ a:hover
    width: 25%;
 }
 
-#texte6
+#texte_6
 {
    margin-left: 15px;
    font-size: 0.9rem;
 }
 
-#texte_no_bold6
+#texte_no_bold_6
 {
    font-weight: 300;
    font-size: 0.9em;
