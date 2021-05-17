@@ -369,11 +369,7 @@ a:hover
    margin-right: 50px;
 }
 
-#texte
-{
-   margin-left: 15px;
-   font-size: 0.9rem;
-}
+
 
 #texte_no_bold
 {
@@ -402,6 +398,12 @@ a:hover
    width: 25%;
 }
 
+#texte1
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
+}
+
 #image_2
 {
    width: 100%;
@@ -422,6 +424,12 @@ a:hover
    width: 25%;
 }
 
+#texte2
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
+}
+
 #image_3
 {
    width: 100%;
@@ -440,6 +448,12 @@ a:hover
    display: flex;
    box-shadow: 1px 10px 10px 1px silver;
    width: 25%;
+}
+
+#texte3
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
 }
 
 
@@ -472,6 +486,12 @@ a:hover
    width: 25%;
 }
 
+#texte4
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
+}
+
 #image_5
 {
    width: 100%;
@@ -492,6 +512,12 @@ a:hover
    width: 25%;
 }
 
+#texte5
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
+}
+
 #image_6
 {
    width: 100%;
@@ -510,6 +536,12 @@ a:hover
    display: flex;
    box-shadow: 1px 10px 10px 1px silver;
    width: 25%;
+}
+
+#texte6
+{
+   margin-left: 15px;
+   font-size: 0.9rem;
 }
 
 .pack2
