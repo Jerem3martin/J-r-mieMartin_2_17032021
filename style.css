@@ -97,7 +97,7 @@ a:hover
 
 
 
-/*section = tout entre le logo et heergements */
+/*section = tout entre le logo et hebergements */
 #section
 {
    margin-left: 70px;
@@ -264,6 +264,8 @@ a:hover
    justify-content: space-between;
 }
 
+/* Icones des filtres economique familial romantique et animaux */
+
 #bill
 {
    color: #0065FC;
@@ -315,7 +317,7 @@ a:hover
     align-items: center;
     margin-right: 15px;
 }
-/* fin filtres economique + familial + romantique + animaux */
+/* fin Icones des filtres economique familial romantique et animaux  */
 
 
 
@@ -370,7 +372,8 @@ a:hover
 }
 
 
-#image_1 /* modification taille image/arrondie bordure image*/
+/*premier bloc d'hebergements */
+#image_1 
 {
    width: 100%;
    height: 100px;
@@ -379,7 +382,7 @@ a:hover
    object-fit: cover;
 }
 
-#image_heberg_1 /* pour les image hebergements */
+#image_heberg_1 
 {
    background-color: white;
    border: 6px solid white;
@@ -417,7 +420,7 @@ a:hover
 
 
 
-
+/*deuxieme bloc d'hebergements */
 #image_2
 {
    width: 100%;
@@ -459,7 +462,7 @@ a:hover
 
 
 
-
+/*troisieme bloc d'hebergements */
 #image_3
 {
    width: 100%;
@@ -505,7 +508,7 @@ a:hover
 }
 
 
-
+/* pack1 = bloc 1/2/3 */
 .pack1
 {
    display: flex;
@@ -516,7 +519,7 @@ a:hover
 }
 
 
-
+/*quatrieme bloc d'hebergements */
 #image_4
 {
    width: 100%;
@@ -563,7 +566,7 @@ a:hover
 
 
 
-
+/*cinquieme bloc d'hebergements */
 #image_5
 {
    width: 100%;
@@ -611,7 +614,7 @@ a:hover
 
 
 
-
+/*sixieme bloc d'hebergements */
 #image_6
 {
    width: 100%;
@@ -653,7 +656,7 @@ a:hover
 
 
 
-
+/*pack 2 = bloc 4/5/6 */
 .pack2
 {
    display: flex;
@@ -662,6 +665,8 @@ a:hover
    justify-content: space-around;
 }
 
+
+/*afficher = afficher plus */
 .afficher
 {
    display: flex;
