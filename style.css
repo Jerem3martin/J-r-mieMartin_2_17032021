@@ -864,20 +864,19 @@ body
 
 #recherche
 {
-   height: 65px;
-   font-size: 1.3rem;
+   width: 100%;
 }
 
 #marker
 {
-   width: 50px;
+   width: 10%;
 }
 
 #search
 {
-   width: 100%;
-   padding-left: 20px;
-   font-size: 1.2em;
+   width: 70%;
+   padding-left: 10px;
+   font-size: 0.7em;
 }
 
 #submit
@@ -890,7 +889,7 @@ body
    background-color: #0065fc;
     color: #fff;
     height: 100%;
-    width: 4em;
+    width: 2.5em;
     margin-left: -0.7em;
     border-radius: 15px;
     display: flex;
@@ -904,6 +903,7 @@ body
     margin-top: 20px;
     margin-left: 0px;
     flex-direction: column;
+    width: 100%;
 }
 
 #liste
@@ -913,32 +913,34 @@ body
    padding: 0px;
    display: flex;
    flex-direction: column;
+   width: 100%;
+   font-size: 0.8em;
 }
 
 #economique
 {
    margin: 10px;
-   width: fit-content;
+   width: 45%;
 }
 
 #familial
 {
    margin: 10px;
    position: absolute;
-   left: 230px;
-   width: 40%;
+   left: 55%;
+   width: 35%;
 }
 
 #romantique
 {
    margin: 10px;
-   width: fit-content;
+   width: 45%;
 }
 
 #animaux
 {
    margin: 10px;
-   width: fit-content;
+   width: 60%;
    
 }
 
@@ -1070,19 +1072,16 @@ body
 #popu1
 {
    width: 40%;
-   height: 100%;
 }
 
 #popu2
 {
    width: 40%;
-   height: 100%;
 }
 
 #popu3
 {
    width: 40%;
-   height: 100%;
 }
 
 #texte_2
@@ -1095,6 +1094,7 @@ body
 #etoile_2
 {
    margin-left: 50%;
+   padding-top: 30px;
 }
 
 #titre_activite
