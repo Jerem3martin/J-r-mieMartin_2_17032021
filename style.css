@@ -1056,6 +1056,12 @@ a:hover
    margin-top: 50px;
 }
 
+#titre_footer_1
+{
+   font-size: 0.8em;
+   padding: 0px;
+}
+
 #propos
 {
     display: flex;
@@ -1063,10 +1069,25 @@ a:hover
     list-style-type: none;
 }
 
+
+
+#titre_footer_2
+{
+   font-size: 0.8em;
+   padding: 0px;
+}
+
 #hebergements
 {
    display: flex;
    flex-direction: column;
+}
+
+
+#titre_footer_3
+{
+   font-size: 0.8em;
+   padding: 0px;
 }
 
 #assistance
