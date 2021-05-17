@@ -369,6 +369,7 @@ a:hover
    margin-right: 50px;
 }
 
+
 #image_1 /* modification taille image/arrondie bordure image*/
 {
    width: 100%;
@@ -401,6 +402,14 @@ a:hover
    font-weight: 300;
    font-size: 0.9em;
 }
+
+#etoile_1
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+}
+
 
 
 
@@ -436,6 +445,13 @@ a:hover
    font-size: 0.9em;
 }
 
+#etoile_2
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+}
+
 
 
 
@@ -469,6 +485,13 @@ a:hover
 {
    font-weight: 300;
    font-size: 0.9em;
+}
+
+#etoile_3
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
 }
 
 
@@ -516,6 +539,13 @@ a:hover
    font-size: 0.9em;
 }
 
+#etoile_4
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+}
+
 
 
 
@@ -549,6 +579,13 @@ a:hover
 {
    font-weight: 300;
    font-size: 0.9em;
+}
+
+#etoile_5
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
 }
 
 
@@ -587,6 +624,13 @@ a:hover
    font-size: 0.9em;
 }
 
+#etoile_6
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+}
+
 
 
 
@@ -616,21 +660,8 @@ a:hover
 
 
  /*icone etoile hebergements + populaire */
-#etoile_1
-{
-   display: flex;
-   flex-direction: row;
-   color: #0065FC;
-}
 
-#etoile_2
-{
-   display: flex;
-   flex-direction: row;
-   color: #0065FC;
-   margin-left: 60%;
-   flex-wrap: wrap;
-}
+
 
 #etoile_gris
 {
@@ -668,7 +699,7 @@ a:hover
    margin-left: 30px;
 }
 
-#image_popu
+#image_popu_1
 {
    background-color: white;
    border: 2px solid white;
@@ -679,13 +710,7 @@ a:hover
    box-shadow: 1px 10px 10px 1px silver;
 }
 
-#texte_2
-{
-   margin-left: 60%;
-   font-size: 0.9rem;
-}
-
-#popu1
+#popu_1
 {
    width: 55%;
    height: 150px;
@@ -694,7 +719,42 @@ a:hover
    object-fit: cover;
 }
 
-#popu2
+#texte_popu_1
+{
+   margin-left: 60%;
+   font-size: 0.9rem;
+}
+
+#texte_no_bold_popu_1
+{
+   font-weight: 300;
+   font-size: 0.9em;
+}
+
+#etoile_popu_1
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+   margin-left: 60%;
+   flex-wrap: wrap;
+}
+
+
+
+
+#image_popu_2
+{
+   background-color: white;
+   border: 2px solid white;
+   border-radius: 10px;
+   width: 90%;
+   border-width: 4px;
+   margin: 20px 20px 10px 20px ;
+   box-shadow: 1px 10px 10px 1px silver;
+}
+
+#popu_2
 {
    width: 55%;
    height: 150px;
@@ -703,7 +763,42 @@ a:hover
    object-fit: cover;
 }
 
-#popu3
+#texte_popu_2
+{
+   margin-left: 60%;
+   font-size: 0.9rem;
+}
+
+#texte_no_bold_popu_2
+{
+   font-weight: 300;
+   font-size: 0.9em;
+}
+
+#etoile_popu_2
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+   margin-left: 60%;
+   flex-wrap: wrap;
+}
+
+
+
+
+#image_popu_3
+{
+   background-color: white;
+   border: 2px solid white;
+   border-radius: 10px;
+   width: 90%;
+   border-width: 4px;
+   margin: 20px 20px 10px 20px ;
+   box-shadow: 1px 10px 10px 1px silver;
+}
+
+#popu_3
 {
    width: 55%;
    height: 150px;
@@ -711,6 +806,29 @@ a:hover
    border-radius: 10px 0px 0px 10px;
    object-fit: cover;
 }
+
+#texte_popu_3
+{
+   margin-left: 60%;
+   font-size: 0.9rem;
+}
+
+#texte_no_bold_popu_3
+{
+   font-weight: 300;
+   font-size: 0.9em;
+}
+
+#etoile_popu_3
+{
+   display: flex;
+   flex-direction: row;
+   color: #0065FC;
+   margin-left: 60%;
+   flex-wrap: wrap;
+}
+
+
 /* fin les plus populaire */
 
 
