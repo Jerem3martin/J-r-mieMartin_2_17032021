@@ -1756,7 +1756,7 @@ screen and (min-width: 426px) and (max-width:770px)
 .parents
 {
    height: 100%;
-   width: 100%;
+   width: 94%;
    margin: 0px;
    flex-wrap: wrap;
    flex-direction: column;
@@ -1778,7 +1778,7 @@ screen and (min-width: 426px) and (max-width:770px)
 #populaire
 {
    display: flex;
-   width: 100%;
+   width: 95%;
    margin-top: 20px;
    margin-bottom: 20px;
 }
