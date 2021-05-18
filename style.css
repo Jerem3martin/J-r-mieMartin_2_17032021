@@ -1523,13 +1523,13 @@ body
 {
    font-size: 0.9em;
    flex-wrap: wrap;
-   margin-left: 50%;
+   margin-left: 60%;
 }
 
 #etoile_popu_1
 {
-   margin-left: 50%;
-   padding-top: 30px;
+   margin-left: 60%;
+   margin-top: 13%;
 }
 
 
@@ -1551,13 +1551,13 @@ body
 {
    font-size: 0.9em;
    flex-wrap: wrap;
-   margin-left: 50%;
+   margin-left: 60%;
 }
 
 #etoile_popu_2
 {
-   margin-left: 50%;
-   padding-top: 30px;
+   margin-left: 60%;
+   margin-top: 13%;
 }
 
 
@@ -1580,13 +1580,14 @@ body
 {
    font-size: 0.9em;
    flex-wrap: wrap;
-   margin-left: 50%;
+   margin-left: 60%;
 }
 
 #etoile_popu_3
 {
-   margin-left: 50%;
-   padding-top: 30px;
+   margin-left: 60%;
+   margin-top: 13%;
+}
 }
 
 
