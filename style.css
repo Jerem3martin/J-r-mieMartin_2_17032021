@@ -411,11 +411,13 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 #etoile_gris_1
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -458,6 +460,7 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 
@@ -500,11 +503,13 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 #etoile_gris_3
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -557,11 +562,13 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 #etoile_gris_4
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -604,11 +611,13 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 #etoile_gris_5
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -652,6 +661,7 @@ a:hover
    display: flex;
    flex-direction: row;
    color: #0065FC;
+   font-size: 0.7em;
 }
 
 
@@ -745,6 +755,7 @@ a:hover
    color: #0065FC;
    margin-left: 60%;
    flex-wrap: wrap;
+   font-size: 0.7em;
 }
 
 
@@ -789,11 +800,13 @@ a:hover
    color: #0065FC;
    margin-left: 60%;
    flex-wrap: wrap;
+   font-size: 0.7em;
 }
 
 #etoile_gris_popu_2
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -805,6 +818,7 @@ a:hover
    border: 2px solid white;
    border-radius: 10px;
    width: 90%;
+   height: 20%;
    border-width: 4px;
    margin: 20px 20px 10px 20px ;
    box-shadow: 1px 10px 10px 1px silver;
@@ -838,11 +852,13 @@ a:hover
    color: #0065FC;
    margin-left: 60%;
    flex-wrap: wrap;
+   font-size: 0.7em;
 }
 
 #etoile_gris_popu_3
 {
    color:#F2F2F2;
+   font-size: 0.7em;
 }
 
 
@@ -1898,6 +1914,7 @@ screen and (min-width: 426px) and (max-width:770px)
   margin-right: 0px;
 
 }
+
 
 @media (max-width: 1024px)
 
