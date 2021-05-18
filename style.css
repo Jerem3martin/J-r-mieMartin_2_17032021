@@ -1802,7 +1802,7 @@ screen and (min-width: 426px) and (max-width:770px)
 
 #activite
 {
-   width: 100%;
+   width: 95%;
    flex-direction: column;
    flex-wrap: wrap;
    align-items: center;
