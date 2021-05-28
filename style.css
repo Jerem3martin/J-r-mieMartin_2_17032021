@@ -50,6 +50,7 @@ a:hover {
 
 .activites {
      padding: 20px;
+     border-top: 2px solid #fff;
 }
 .activites:hover {
      border-top: 2px #0065FC solid ;
@@ -61,6 +62,7 @@ a:hover {
      color: #0065FC;
       font-weight: bold;
        padding: 20px;
+       border-top: 2px solid #fff;
 }
 .inscrire:hover {
      border-top: 2px #0065FC solid ;
