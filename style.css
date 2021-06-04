@@ -1426,6 +1426,7 @@ body {
     width: 95%;
      margin-top: 20px;
       margin-bottom: 20px;
+      width: 100%;
 }
 
 #titre_popu {
@@ -1453,6 +1454,7 @@ body {
   width: 100%;
    margin-left: 0px;
     margin-right: 60px;
+    margin-bottom: 20px;
 }
 
 #activ1 {
@@ -1463,6 +1465,7 @@ body {
 #image_colone_1 {
   width: 100%;
    margin-right: 60px;
+   margin-bottom: 20px;
 }
 
 #activ2 {
@@ -1478,6 +1481,7 @@ body {
 #activite4 {
   width: 100%;
    margin-right: 60px;
+   margin-bottom: 20px;
 }
 
 #activ4 {
@@ -1487,6 +1491,7 @@ body {
 
 #image_colone_2 {
    width: 100%;
+   margin-bottom: 20px;
 }
 
 #activ5 {
