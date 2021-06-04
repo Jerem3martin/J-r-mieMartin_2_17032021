@@ -169,6 +169,7 @@ a:hover {
 
 #economique:hover {
    color: #0065FC;
+   background-color: #ebebf0;
 }
 
 #familial {
@@ -959,6 +960,10 @@ body {
       width: 50%;
        display: flex;
         justify-content: center;
+}
+.activites:hover {
+   border-bottom: 2px #0065FC solid;
+   border-top: none;
 }
 
 .inscrire {
