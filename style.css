@@ -577,6 +577,9 @@ a:hover {
       margin-left: 30px;
 }
 
+#pack_popu {
+   height: 100%;
+}
 
 /* premier bloc de populaire */ 
 #image_popu_1 {
@@ -584,6 +587,7 @@ a:hover {
    border: 2px solid white;
    border-radius: 10px;
    width: 80%;
+   height: 25%;
    border-width: 4px;
    margin: 20px 20px 10px 20px ;
    box-shadow: 1px 10px 10px 1px silver;
@@ -620,6 +624,7 @@ a:hover {
    border: 2px solid white;
    border-radius: 10px;
    width: 80%;
+   height: 27%;
    border-width: 4px;
    margin: 20px 20px 10px 20px ;
    box-shadow: 1px 10px 10px 1px silver;
@@ -660,6 +665,7 @@ a:hover {
    border: 2px solid white;
    border-radius: 10px;
    width: 80%;
+   height: 25%;
    border-width: 4px;
    margin: 20px 20px 10px 20px ;
    box-shadow: 1px 10px 10px 1px silver;
@@ -1438,8 +1444,19 @@ body {
     justify-content: space-evenly;
 }
 
-#image_popu {
-  width: auto;
+#image_popu_1{
+   width: 100%;
+   height: auto;
+} 
+
+#image_popu_2 {
+   width: 100%;
+   height: auto;
+}
+
+#image_popu_3 {
+   width: 100%;
+   height: auto;
 }
 
 #titre_activite {
