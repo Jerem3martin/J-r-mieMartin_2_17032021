@@ -166,11 +166,10 @@ a:hover {
          border-left: none;
           padding-right: 10px
 }
-
-#economique:hover {
-   color: #0065FC;
-   background-color: #ebebf0;
-}
+            #economique:hover {
+               color: #0065FC;
+               border-color: #0065FC;
+            }
 
 #familial {
     display: flex;
@@ -181,9 +180,10 @@ a:hover {
          border-left: none;
           padding-right: 10px
 }
-#familial:hover {
-     color: #0065FC;
-}
+            #familial:hover {
+               color: #0065FC;
+               border-color: #0065FC;
+            }
 
 #romantique {
     display: flex;
@@ -196,6 +196,7 @@ a:hover {
 }
             #romantique:hover {
                color: #0065FC;
+               border-color: #0065FC;
             }
 
 #animaux {
@@ -209,6 +210,7 @@ a:hover {
 }
             #animaux:hover {
                color: #0065FC;
+               border-color: #0065FC;
             }
 
 /*fin vacance/liste/article/populaire/activite */
