@@ -912,7 +912,6 @@ ul {
 
 
 @media
-<<<<<<< HEAD
 
 screen and (min-width:320px) and (max-width: 675px)
 
@@ -1364,20 +1363,8 @@ body {
 
 @media screen and (min-width: 676px) and (max-width:1400px) {
 
-<<<<<<< HEAD
-
-
-@media
-
-screen and (min-width: 676px) and (max-width:1399px)
-
-{
-
 #logo
 {
-=======
-#logo {
->>>>>>> 1623b184e4f8990facac69ad6733fac1fb786241
    width: 20%;
 }
 
